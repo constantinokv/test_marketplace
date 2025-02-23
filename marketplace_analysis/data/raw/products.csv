@@ -1,0 +1,1001 @@
+product_id,title,description,category,price,rating,reviews_count,sales_last_30_days,stock,seller_rating,shipping_time_days
+1,iPhone 13 Pro 128GB,Latest Apple iPhone with Pro camera system,Electronics/Phones,392.50076785135593,3.5724272163131103,312,97,61,4.621014807302202,1
+2,Samsung Galaxy S21,Android flagship with amazing display,Electronics/Phones,883.9245369002244,4.065703349216764,616,22,7,4.757515366384917,1
+3,"MacBook Pro 14""",Powerful laptop for professionals,Electronics/Laptops,596.9778160243573,3.626405341236854,449,79,88,4.574804600089591,3
+4,Gaming Mouse RGB,High precision gaming mouse with RGB lighting,Electronics/Accessories,884.8604214998102,4.695948583309079,554,73,16,4.615361250766506,2
+5,Wireless Earbuds,Premium wireless earbuds with noise cancellation,Electronics/Audio,862.0062740023204,3.7197316782140164,490,46,51,4.5228804236383535,2
+6,iPhone 13 Pro 128GB,Latest Apple iPhone with Pro camera system,Electronics/Phones,1850.4123783261098,4.537075308888491,902,102,37,4.698749900695619,9
+7,Samsung Galaxy S21,Android flagship with amazing display,Electronics/Phones,1485.2063156884797,4.2655904716979,757,142,79,4.487556504703598,9
+8,"MacBook Pro 14""",Powerful laptop for professionals,Electronics/Laptops,405.5898817249373,4.933981386065975,428,185,42,4.37103688100666,9
+9,Gaming Mouse RGB,High precision gaming mouse with RGB lighting,Electronics/Accessories,1832.371573230902,4.786192215114442,647,23,9,4.233342071672255,5
+10,Wireless Earbuds,Premium wireless earbuds with noise cancellation,Electronics/Audio,892.1621877924817,3.5796439408876486,643,136,48,4.784685704648465,5
+11,iPhone 13 Pro 128GB,Latest Apple iPhone with Pro camera system,Electronics/Phones,1980.0048433509191,4.148528128518817,58,140,22,4.9190092629257975,7
+12,Samsung Galaxy S21,Android flagship with amazing display,Electronics/Phones,540.078297897275,4.822463828246963,250,147,17,4.544815888797797,8
+13,"MacBook Pro 14""",Powerful laptop for professionals,Electronics/Laptops,1303.5766366669168,3.567264156046854,323,50,54,4.930894245526293,3
+14,Gaming Mouse RGB,High precision gaming mouse with RGB lighting,Electronics/Accessories,278.5413798979289,4.825044333174822,904,34,58,4.1282511678943115,9
+15,Wireless Earbuds,Premium wireless earbuds with noise cancellation,Electronics/Audio,1599.6121723383321,4.071517473838707,673,77,9,4.865670944923847,2
+16,iPhone 13 Pro 128GB,Latest Apple iPhone with Pro camera system,Electronics/Phones,1152.8320871874782,3.9614226398039705,693,90,52,4.182482923805289,1
+17,Samsung Galaxy S21,Android flagship with amazing display,Electronics/Phones,1015.7706312266579,3.7809983320543976,136,175,16,4.352047606317683,3
+18,"MacBook Pro 14""",Powerful laptop for professionals,Electronics/Laptops,244.00893016227852,3.8988785112182205,440,92,4,4.4643806559808645,9
+19,Gaming Mouse RGB,High precision gaming mouse with RGB lighting,Electronics/Accessories,1253.808749743871,4.107294305048549,127,168,73,4.570851076521278,2
+20,Wireless Earbuds,Premium wireless earbuds with noise cancellation,Electronics/Audio,649.7948286603032,4.2884159922381295,582,5,96,4.086477496484305,3
+21,iPhone 13 Pro 128GB,Latest Apple iPhone with Pro camera system,Electronics/Phones,1302.8137765268652,4.684776101564061,217,62,21,4.064278681991879,5
+22,Samsung Galaxy S21,Android flagship with amazing display,Electronics/Phones,1595.048998488755,4.681837020275502,825,131,3,4.630081934300367,7
+23,"MacBook Pro 14""",Powerful laptop for professionals,Electronics/Laptops,1300.339773057749,4.38072051803646,390,170,2,4.838778028209258,3
+24,Gaming Mouse RGB,High precision gaming mouse with RGB lighting,Electronics/Accessories,778.4119726941523,4.573265042346327,227,111,49,4.9001264027811295,4
+25,Wireless Earbuds,Premium wireless earbuds with noise cancellation,Electronics/Audio,139.5708629360163,4.807197472872328,668,116,38,4.734597638108527,9
+26,iPhone 13 Pro 128GB,Latest Apple iPhone with Pro camera system,Electronics/Phones,350.76291598034334,4.06039569149961,543,175,35,4.336780444862667,4
+27,Samsung Galaxy S21,Android flagship with amazing display,Electronics/Phones,607.3120983977117,4.631410909259793,683,66,39,4.076594162524082,2
+28,"MacBook Pro 14""",Powerful laptop for professionals,Electronics/Laptops,1732.9489284398462,3.5729590763970775,128,0,3,4.035877027848269,5
+29,Gaming Mouse RGB,High precision gaming mouse with RGB lighting,Electronics/Accessories,1478.4194412048212,4.181669367543714,627,82,38,4.610619889830755,3
+30,Wireless Earbuds,Premium wireless earbuds with noise cancellation,Electronics/Audio,1003.0825136584094,4.747195428601556,566,55,8,4.451641095372896,6
+31,iPhone 13 Pro 128GB,Latest Apple iPhone with Pro camera system,Electronics/Phones,968.9871491025073,3.5569353736607825,74,198,64,4.710890751173996,8
+32,Samsung Galaxy S21,Android flagship with amazing display,Electronics/Phones,1402.6163947085452,3.610044277999022,630,199,86,4.939105402088843,3
+33,"MacBook Pro 14""",Powerful laptop for professionals,Electronics/Laptops,1231.9871804849581,4.998581399601807,854,14,94,4.430290161601743,7
+34,Gaming Mouse RGB,High precision gaming mouse with RGB lighting,Electronics/Accessories,1879.1616010352157,3.8732362030799554,262,99,79,4.4853959876629075,6
+35,Wireless Earbuds,Premium wireless earbuds with noise cancellation,Electronics/Audio,572.9259760469347,4.459866959058896,697,123,80,4.097789876129922,1
+36,iPhone 13 Pro 128GB,Latest Apple iPhone with Pro camera system,Electronics/Phones,1448.9966227776226,4.995016626660527,403,32,50,4.468203628010425,1
+37,Samsung Galaxy S21,Android flagship with amazing display,Electronics/Phones,405.97902098250836,4.303647276096279,594,116,28,4.854867853546777,7
+38,"MacBook Pro 14""",Powerful laptop for professionals,Electronics/Laptops,1877.798558601555,3.978836915316567,869,80,7,4.137076959529826,8
+39,Gaming Mouse RGB,High precision gaming mouse with RGB lighting,Electronics/Accessories,875.4424890218982,4.702219166051661,460,123,74,4.100840983419987,1
+40,Wireless Earbuds,Premium wireless earbuds with noise cancellation,Electronics/Audio,1686.974622379383,4.836756400637991,730,44,76,4.093702108127305,6
+41,iPhone 13 Pro 128GB,Latest Apple iPhone with Pro camera system,Electronics/Phones,1303.003635025299,4.742543377016429,244,105,73,4.19190887091865,9
+42,Samsung Galaxy S21,Android flagship with amazing display,Electronics/Phones,1472.0852670686374,3.888701614365151,561,196,64,4.821127969140301,8
+43,"MacBook Pro 14""",Powerful laptop for professionals,Electronics/Laptops,1869.3255653152914,4.68128545261856,642,194,34,4.103977987438,2
+44,Gaming Mouse RGB,High precision gaming mouse with RGB lighting,Electronics/Accessories,567.9338680937535,3.7470557043092954,515,18,50,4.15609839677084,8
+45,Wireless Earbuds,Premium wireless earbuds with noise cancellation,Electronics/Audio,459.3844294121552,4.107003037339055,941,1,89,4.27290250938058,5
+46,iPhone 13 Pro 128GB,Latest Apple iPhone with Pro camera system,Electronics/Phones,1623.1849867754624,3.7572595402018116,781,47,94,4.9210523086587346,3
+47,Samsung Galaxy S21,Android flagship with amazing display,Electronics/Phones,1830.1428185537557,4.734594835778093,259,147,50,4.3521427751185895,8
+48,"MacBook Pro 14""",Powerful laptop for professionals,Electronics/Laptops,366.1901198427776,3.6608884702621065,630,162,86,4.39801328904662,2
+49,Gaming Mouse RGB,High precision gaming mouse with RGB lighting,Electronics/Accessories,483.62815044359286,4.516083776838229,771,121,87,4.55958737598666,9
+50,Wireless Earbuds,Premium wireless earbuds with noise cancellation,Electronics/Audio,1785.45955949372,3.6930455889777742,842,192,37,4.226042937866487,9
+51,iPhone 13 Pro 128GB,Latest Apple iPhone with Pro camera system,Electronics/Phones,1900.8097576756863,3.88291557596024,35,179,54,4.877507930755238,1
+52,Samsung Galaxy S21,Android flagship with amazing display,Electronics/Phones,393.5470733854023,3.845163472485246,244,74,29,4.594689230877826,9
+53,"MacBook Pro 14""",Powerful laptop for professionals,Electronics/Laptops,827.7551677403675,4.151292244776415,795,126,88,4.965501044193296,1
+54,Gaming Mouse RGB,High precision gaming mouse with RGB lighting,Electronics/Accessories,1064.0670972291846,4.890074639143581,59,86,78,4.786249533479712,5
+55,Wireless Earbuds,Premium wireless earbuds with noise cancellation,Electronics/Audio,160.13399996897698,4.077352766267804,725,44,6,4.616570322121847,1
+56,iPhone 13 Pro 128GB,Latest Apple iPhone with Pro camera system,Electronics/Phones,1745.1850342113269,3.5670202367086756,584,117,11,4.680144486557586,4
+57,Samsung Galaxy S21,Android flagship with amazing display,Electronics/Phones,1109.1139621536645,4.449885915631554,347,74,85,4.7830259439209595,8
+58,"MacBook Pro 14""",Powerful laptop for professionals,Electronics/Laptops,321.5189159719332,4.693310910221535,852,50,9,4.653449264878853,1
+59,Gaming Mouse RGB,High precision gaming mouse with RGB lighting,Electronics/Accessories,1363.8743409508008,4.12241080263533,67,187,55,4.428386128713504,5
+60,Wireless Earbuds,Premium wireless earbuds with noise cancellation,Electronics/Audio,779.4958265979034,4.307136853489103,311,90,86,4.4809912670336915,7
+61,iPhone 13 Pro 128GB,Latest Apple iPhone with Pro camera system,Electronics/Phones,943.206509194952,3.5131554836596335,890,53,89,4.150592824842954,6
+62,Samsung Galaxy S21,Android flagship with amazing display,Electronics/Phones,1708.1341464323723,3.7908595844337167,628,154,12,4.164710441761088,7
+63,"MacBook Pro 14""",Powerful laptop for professionals,Electronics/Laptops,1020.5840600043138,4.383833835364877,445,93,48,4.351466169183889,5
+64,Gaming Mouse RGB,High precision gaming mouse with RGB lighting,Electronics/Accessories,1581.0400241636755,4.8268447217117,505,177,95,4.3991411908014335,2
+65,Wireless Earbuds,Premium wireless earbuds with noise cancellation,Electronics/Audio,1023.3694116546329,4.580971398662625,35,109,79,4.456558589848675,5
+66,iPhone 13 Pro 128GB,Latest Apple iPhone with Pro camera system,Electronics/Phones,1769.207010058934,4.488961962923685,443,133,40,4.11964580896852,7
+67,Samsung Galaxy S21,Android flagship with amazing display,Electronics/Phones,678.1279604737956,4.7495246761678604,367,23,11,4.19852370333645,4
+68,"MacBook Pro 14""",Powerful laptop for professionals,Electronics/Laptops,1665.7784983656325,3.9025436943139624,416,15,13,4.182972710478608,3
+69,Gaming Mouse RGB,High precision gaming mouse with RGB lighting,Electronics/Accessories,982.2067597858992,3.646025698401503,904,52,88,4.516748097940424,7
+70,Wireless Earbuds,Premium wireless earbuds with noise cancellation,Electronics/Audio,1765.5768991764644,3.612593511273162,975,34,6,4.3365263147894035,4
+71,iPhone 13 Pro 128GB,Latest Apple iPhone with Pro camera system,Electronics/Phones,1642.0817942472559,4.057841171246476,68,84,9,4.328513024048199,7
+72,Samsung Galaxy S21,Android flagship with amazing display,Electronics/Phones,1557.1113575557508,3.976815155964232,985,31,31,4.814354350153691,9
+73,"MacBook Pro 14""",Powerful laptop for professionals,Electronics/Laptops,107.99142469421682,4.0270096286659065,501,194,83,4.8840714251388055,6
+74,Gaming Mouse RGB,High precision gaming mouse with RGB lighting,Electronics/Accessories,1408.83190275781,4.553182373660553,740,186,72,4.50741762720935,9
+75,Wireless Earbuds,Premium wireless earbuds with noise cancellation,Electronics/Audio,1959.9140478462907,3.9912145946885333,174,63,94,4.9970868612295,4
+76,iPhone 13 Pro 128GB,Latest Apple iPhone with Pro camera system,Electronics/Phones,102.01872343518735,3.567257959070056,528,48,50,4.138745855473593,4
+77,Samsung Galaxy S21,Android flagship with amazing display,Electronics/Phones,1560.8537262134034,4.611150200763137,796,32,73,4.991126500947858,7
+78,"MacBook Pro 14""",Powerful laptop for professionals,Electronics/Laptops,305.1864393144359,3.6527977551471085,661,108,5,4.180511742737422,5
+79,Gaming Mouse RGB,High precision gaming mouse with RGB lighting,Electronics/Accessories,1512.3757954765051,4.66265866948856,894,155,70,4.977134092084771,7
+80,Wireless Earbuds,Premium wireless earbuds with noise cancellation,Electronics/Audio,1868.93959896225,3.90555092454313,43,106,6,4.992938576462218,5
+81,iPhone 13 Pro 128GB,Latest Apple iPhone with Pro camera system,Electronics/Phones,561.3307656859674,4.450263987691968,706,90,25,4.942684409805207,6
+82,Samsung Galaxy S21,Android flagship with amazing display,Electronics/Phones,1491.0833364515183,4.816527802663329,815,28,10,4.7162363258232105,3
+83,"MacBook Pro 14""",Powerful laptop for professionals,Electronics/Laptops,685.4643406202517,4.035347214037717,716,91,66,4.70742603531718,6
+84,Gaming Mouse RGB,High precision gaming mouse with RGB lighting,Electronics/Accessories,348.6499533035244,4.348217375995538,985,103,37,4.3927402932641275,7
+85,Wireless Earbuds,Premium wireless earbuds with noise cancellation,Electronics/Audio,1368.01380482612,3.892214695032929,521,121,98,4.316309948643424,5
+86,iPhone 13 Pro 128GB,Latest Apple iPhone with Pro camera system,Electronics/Phones,1587.9323606621706,4.885299220803736,614,28,88,4.200374980204785,7
+87,Samsung Galaxy S21,Android flagship with amazing display,Electronics/Phones,1960.017734399636,3.6987112415400905,205,74,94,4.29599689100758,9
+88,"MacBook Pro 14""",Powerful laptop for professionals,Electronics/Laptops,563.2519866243963,4.370234912995669,934,18,43,4.271026834484341,4
+89,Gaming Mouse RGB,High precision gaming mouse with RGB lighting,Electronics/Accessories,786.7701633344659,3.774657893524887,740,187,35,4.350186017644738,6
+90,Wireless Earbuds,Premium wireless earbuds with noise cancellation,Electronics/Audio,1609.8350379331307,4.143670032100502,703,117,83,4.325804453260083,3
+91,iPhone 13 Pro 128GB,Latest Apple iPhone with Pro camera system,Electronics/Phones,669.4820674225972,4.4076586238551645,364,41,38,4.473974066404117,3
+92,Samsung Galaxy S21,Android flagship with amazing display,Electronics/Phones,649.2793058002527,4.267884371705082,345,90,71,4.190902944097869,6
+93,"MacBook Pro 14""",Powerful laptop for professionals,Electronics/Laptops,163.020831947013,3.8523472022309737,204,22,4,4.60858457936474,4
+94,Gaming Mouse RGB,High precision gaming mouse with RGB lighting,Electronics/Accessories,123.90717623868022,4.804304782578089,15,175,86,4.335918925561801,7
+95,Wireless Earbuds,Premium wireless earbuds with noise cancellation,Electronics/Audio,1099.5222654395325,4.55300599770132,467,115,77,4.008805076610512,7
+96,iPhone 13 Pro 128GB,Latest Apple iPhone with Pro camera system,Electronics/Phones,642.7165601665204,4.417931028639744,302,109,40,4.603366151699021,1
+97,Samsung Galaxy S21,Android flagship with amazing display,Electronics/Phones,491.47344867296215,3.5527926657122757,140,199,21,4.055671354231787,9
+98,"MacBook Pro 14""",Powerful laptop for professionals,Electronics/Laptops,957.3463134573278,4.5360134570440005,611,78,94,4.775620468527739,9
+99,Gaming Mouse RGB,High precision gaming mouse with RGB lighting,Electronics/Accessories,824.8728727595242,3.995288074540589,754,59,76,4.941389337259973,7
+100,Wireless Earbuds,Premium wireless earbuds with noise cancellation,Electronics/Audio,1073.534340104416,3.7625103711109156,379,29,99,4.660990522110261,9
+101,iPhone 13 Pro 128GB,Latest Apple iPhone with Pro camera system,Electronics/Phones,1458.6884255041475,3.7865484726748324,510,51,24,4.590927879210381,7
+102,Samsung Galaxy S21,Android flagship with amazing display,Electronics/Phones,1960.0770398332218,3.7412343645018913,200,63,79,4.5563272533250805,2
+103,"MacBook Pro 14""",Powerful laptop for professionals,Electronics/Laptops,1749.206125491634,4.817770303980385,285,169,84,4.602392343023877,4
+104,Gaming Mouse RGB,High precision gaming mouse with RGB lighting,Electronics/Accessories,606.5841583495545,4.066071373685893,504,108,90,4.623295120391315,1
+105,Wireless Earbuds,Premium wireless earbuds with noise cancellation,Electronics/Audio,1920.5558053904244,4.834443028171008,767,199,87,4.173256560985474,6
+106,iPhone 13 Pro 128GB,Latest Apple iPhone with Pro camera system,Electronics/Phones,363.97639262194093,3.6617800013455826,138,26,5,4.181364058588662,8
+107,Samsung Galaxy S21,Android flagship with amazing display,Electronics/Phones,273.1788027247887,3.9456893629335825,753,162,18,4.798068513613576,6
+108,"MacBook Pro 14""",Powerful laptop for professionals,Electronics/Laptops,946.3934444494411,4.479483313221052,112,88,68,4.635167495986946,6
+109,Gaming Mouse RGB,High precision gaming mouse with RGB lighting,Electronics/Accessories,1275.9338484032764,4.395672182974113,494,6,97,4.89221450959791,8
+110,Wireless Earbuds,Premium wireless earbuds with noise cancellation,Electronics/Audio,145.3164578375318,4.092932591579738,667,129,82,4.749096310144976,5
+111,iPhone 13 Pro 128GB,Latest Apple iPhone with Pro camera system,Electronics/Phones,1605.6024494686767,4.087723373606704,45,120,11,4.494509987446051,3
+112,Samsung Galaxy S21,Android flagship with amazing display,Electronics/Phones,1395.1580582086187,4.40382694815253,109,32,24,4.0191102178331,7
+113,"MacBook Pro 14""",Powerful laptop for professionals,Electronics/Laptops,955.581751873162,3.7944230781608264,150,110,95,4.527312734611688,4
+114,Gaming Mouse RGB,High precision gaming mouse with RGB lighting,Electronics/Accessories,1173.7210799321715,4.348033789641302,758,14,95,4.24396948191928,2
+115,Wireless Earbuds,Premium wireless earbuds with noise cancellation,Electronics/Audio,1122.8896294660285,3.678330931591619,137,125,30,4.5547686775394975,5
+116,iPhone 13 Pro 128GB,Latest Apple iPhone with Pro camera system,Electronics/Phones,1737.7482257627,4.244888140345721,31,177,2,4.527757549219445,2
+117,Samsung Galaxy S21,Android flagship with amazing display,Electronics/Phones,1789.5189558411432,3.6556342933124046,713,184,80,4.196906321215346,8
+118,"MacBook Pro 14""",Powerful laptop for professionals,Electronics/Laptops,1204.247056841618,4.149179000543495,285,106,26,4.224608660241049,6
+119,Gaming Mouse RGB,High precision gaming mouse with RGB lighting,Electronics/Accessories,1693.908069129703,4.538894671651454,145,105,21,4.185608901806731,5
+120,Wireless Earbuds,Premium wireless earbuds with noise cancellation,Electronics/Audio,168.43763543149754,3.862162550645809,804,197,42,4.9834572507211545,7
+121,iPhone 13 Pro 128GB,Latest Apple iPhone with Pro camera system,Electronics/Phones,899.1479864977546,3.682831446271229,658,13,76,4.014981489906536,7
+122,Samsung Galaxy S21,Android flagship with amazing display,Electronics/Phones,969.3362103042613,4.918170092164738,729,167,51,4.73257719384201,3
+123,"MacBook Pro 14""",Powerful laptop for professionals,Electronics/Laptops,1608.3356762618275,3.851352848117917,671,65,81,4.054337752189438,7
+124,Gaming Mouse RGB,High precision gaming mouse with RGB lighting,Electronics/Accessories,731.6426790586212,3.8335809441025877,631,24,78,4.25048964282712,3
+125,Wireless Earbuds,Premium wireless earbuds with noise cancellation,Electronics/Audio,1027.3740484396171,3.9850792220183355,983,135,58,4.17584516663408,8
+126,iPhone 13 Pro 128GB,Latest Apple iPhone with Pro camera system,Electronics/Phones,1843.4006099599328,4.746352083284469,356,128,93,4.390117161570769,3
+127,Samsung Galaxy S21,Android flagship with amazing display,Electronics/Phones,1149.177301169275,3.762548047863495,527,164,56,4.188192311315157,4
+128,"MacBook Pro 14""",Powerful laptop for professionals,Electronics/Laptops,753.2472137768616,3.7223932649962164,898,46,43,4.437697880794409,1
+129,Gaming Mouse RGB,High precision gaming mouse with RGB lighting,Electronics/Accessories,1390.6020200503958,3.8526264182885916,888,45,94,4.457888823431983,1
+130,Wireless Earbuds,Premium wireless earbuds with noise cancellation,Electronics/Audio,1505.2517467664659,3.6411695495751655,458,161,14,4.051697020423563,4
+131,iPhone 13 Pro 128GB,Latest Apple iPhone with Pro camera system,Electronics/Phones,937.0377459569322,4.572694860659154,261,57,70,4.912807356206393,6
+132,Samsung Galaxy S21,Android flagship with amazing display,Electronics/Phones,1494.1831161896105,3.924381597535268,784,60,16,4.0071741579757685,6
+133,"MacBook Pro 14""",Powerful laptop for professionals,Electronics/Laptops,1713.1696175116708,3.6522707828487957,46,85,66,4.137768966084692,5
+134,Gaming Mouse RGB,High precision gaming mouse with RGB lighting,Electronics/Accessories,453.1004146543074,4.87340393709852,932,151,35,4.241278565142352,8
+135,Wireless Earbuds,Premium wireless earbuds with noise cancellation,Electronics/Audio,1311.1877295503325,4.237440880413095,613,153,1,4.749488445312988,3
+136,iPhone 13 Pro 128GB,Latest Apple iPhone with Pro camera system,Electronics/Phones,1738.912400504089,3.9639506758956937,125,109,59,4.463340481057719,6
+137,Samsung Galaxy S21,Android flagship with amazing display,Electronics/Phones,1278.5377075381734,4.097584457609428,808,13,12,4.947390194768716,4
+138,"MacBook Pro 14""",Powerful laptop for professionals,Electronics/Laptops,1679.09034024875,4.626542778796756,221,60,14,4.631789000673638,1
+139,Gaming Mouse RGB,High precision gaming mouse with RGB lighting,Electronics/Accessories,426.5741249205042,4.5971330035941556,637,130,92,4.380435128036298,1
+140,Wireless Earbuds,Premium wireless earbuds with noise cancellation,Electronics/Audio,1538.6093267795777,3.957077195301338,340,184,35,4.747018119349071,2
+141,iPhone 13 Pro 128GB,Latest Apple iPhone with Pro camera system,Electronics/Phones,1133.7636645225573,3.5507320596309486,790,3,55,4.818750977519461,7
+142,Samsung Galaxy S21,Android flagship with amazing display,Electronics/Phones,887.4889057108314,4.551022160630628,323,112,44,4.495749545408698,5
+143,"MacBook Pro 14""",Powerful laptop for professionals,Electronics/Laptops,1780.610512469475,4.410001798487006,869,197,91,4.49993718568439,7
+144,Gaming Mouse RGB,High precision gaming mouse with RGB lighting,Electronics/Accessories,749.1972114372068,4.590195793027878,306,145,9,4.346836783961448,2
+145,Wireless Earbuds,Premium wireless earbuds with noise cancellation,Electronics/Audio,1759.260844642261,4.1562698731872185,709,169,63,4.168037149385558,6
+146,iPhone 13 Pro 128GB,Latest Apple iPhone with Pro camera system,Electronics/Phones,577.7007432662065,4.964548868608658,31,119,62,4.052770568133232,9
+147,Samsung Galaxy S21,Android flagship with amazing display,Electronics/Phones,1070.4928706120559,4.604886432964422,343,101,87,4.174130359114484,6
+148,"MacBook Pro 14""",Powerful laptop for professionals,Electronics/Laptops,332.14095034317194,3.5462803689402844,794,143,34,4.688902236768605,9
+149,Gaming Mouse RGB,High precision gaming mouse with RGB lighting,Electronics/Accessories,1075.6052252023012,3.797313482305044,465,102,77,4.094236505901063,8
+150,Wireless Earbuds,Premium wireless earbuds with noise cancellation,Electronics/Audio,291.02747792380165,4.694578857333369,282,168,69,4.807677787659742,6
+151,iPhone 13 Pro 128GB,Latest Apple iPhone with Pro camera system,Electronics/Phones,1774.3922759558275,4.674664554608906,569,151,91,4.165400286898557,9
+152,Samsung Galaxy S21,Android flagship with amazing display,Electronics/Phones,1572.8085910879247,4.324422908112599,623,63,4,4.917508140185121,9
+153,"MacBook Pro 14""",Powerful laptop for professionals,Electronics/Laptops,1542.7548825734664,4.964835982145637,243,25,58,4.923782447235209,8
+154,Gaming Mouse RGB,High precision gaming mouse with RGB lighting,Electronics/Accessories,1625.6941932289103,4.559098653106642,967,72,67,4.201520823350734,6
+155,Wireless Earbuds,Premium wireless earbuds with noise cancellation,Electronics/Audio,1658.9491434055826,4.955194525106508,681,58,40,4.213661488602583,6
+156,iPhone 13 Pro 128GB,Latest Apple iPhone with Pro camera system,Electronics/Phones,366.12895738388664,4.223662431365749,840,150,27,4.140568866557654,4
+157,Samsung Galaxy S21,Android flagship with amazing display,Electronics/Phones,248.22230559223044,3.6728612742134294,325,141,16,4.224420430462491,4
+158,"MacBook Pro 14""",Powerful laptop for professionals,Electronics/Laptops,1421.6483607192179,3.6116374484320923,534,110,58,4.8048536323521915,5
+159,Gaming Mouse RGB,High precision gaming mouse with RGB lighting,Electronics/Accessories,1319.3860243629626,4.129305631812864,774,66,47,4.544787032364648,8
+160,Wireless Earbuds,Premium wireless earbuds with noise cancellation,Electronics/Audio,1671.6880803183644,4.279756841156045,664,69,86,4.372346488315754,7
+161,iPhone 13 Pro 128GB,Latest Apple iPhone with Pro camera system,Electronics/Phones,1185.9457290561768,3.795114814180911,38,59,1,4.682865520822343,6
+162,Samsung Galaxy S21,Android flagship with amazing display,Electronics/Phones,1490.7281263005455,3.6864374226952963,805,159,65,4.312563828977429,6
+163,"MacBook Pro 14""",Powerful laptop for professionals,Electronics/Laptops,1854.19261273047,4.203830298238273,962,13,72,4.302252005254213,1
+164,Gaming Mouse RGB,High precision gaming mouse with RGB lighting,Electronics/Accessories,1822.565254385082,3.521094527222463,479,176,74,4.6088212241078965,8
+165,Wireless Earbuds,Premium wireless earbuds with noise cancellation,Electronics/Audio,1542.053963045032,3.603258286996771,668,29,47,4.130846728358111,9
+166,iPhone 13 Pro 128GB,Latest Apple iPhone with Pro camera system,Electronics/Phones,784.5984454822728,4.035865513440726,610,103,80,4.120258232574536,7
+167,Samsung Galaxy S21,Android flagship with amazing display,Electronics/Phones,1024.5868827777144,4.815040427926116,641,44,67,4.215987152322493,5
+168,"MacBook Pro 14""",Powerful laptop for professionals,Electronics/Laptops,568.3149059935251,4.174332428428837,510,1,18,4.075651235613186,7
+169,Gaming Mouse RGB,High precision gaming mouse with RGB lighting,Electronics/Accessories,1770.7264599855241,4.3057485155256146,80,64,81,4.0472660960673466,8
+170,Wireless Earbuds,Premium wireless earbuds with noise cancellation,Electronics/Audio,1002.7923954375373,4.948832710636376,872,94,33,4.4163255659159075,6
+171,iPhone 13 Pro 128GB,Latest Apple iPhone with Pro camera system,Electronics/Phones,1339.5691279814916,4.586080257626584,856,36,62,4.862828947071715,1
+172,Samsung Galaxy S21,Android flagship with amazing display,Electronics/Phones,1858.901629309164,4.600498571636658,749,173,57,4.989730418827121,3
+173,"MacBook Pro 14""",Powerful laptop for professionals,Electronics/Laptops,691.2387285843389,4.806917043613695,285,191,32,4.447193913932403,4
+174,Gaming Mouse RGB,High precision gaming mouse with RGB lighting,Electronics/Accessories,267.47023064974894,3.817089168386708,903,23,61,4.585492810624,1
+175,Wireless Earbuds,Premium wireless earbuds with noise cancellation,Electronics/Audio,1339.1655284786307,4.251613848768171,768,0,83,4.482904308556683,2
+176,iPhone 13 Pro 128GB,Latest Apple iPhone with Pro camera system,Electronics/Phones,692.0433601717305,4.486841837231394,429,87,53,4.501768338386551,5
+177,Samsung Galaxy S21,Android flagship with amazing display,Electronics/Phones,745.3254839186447,4.958178198230602,716,66,9,4.9003837807178945,7
+178,"MacBook Pro 14""",Powerful laptop for professionals,Electronics/Laptops,1391.9241411327753,4.44041872972682,232,156,36,4.22593601565621,2
+179,Gaming Mouse RGB,High precision gaming mouse with RGB lighting,Electronics/Accessories,935.5145306257353,4.5171229776039254,493,2,13,4.592932497620593,4
+180,Wireless Earbuds,Premium wireless earbuds with noise cancellation,Electronics/Audio,516.8759753383587,3.6951942205634265,285,122,17,4.883414702973816,7
+181,iPhone 13 Pro 128GB,Latest Apple iPhone with Pro camera system,Electronics/Phones,1446.3423649895067,3.6492014887476065,923,112,36,4.997769316718549,7
+182,Samsung Galaxy S21,Android flagship with amazing display,Electronics/Phones,1670.8815669429507,3.7537887829121535,546,55,66,4.009371721235885,5
+183,"MacBook Pro 14""",Powerful laptop for professionals,Electronics/Laptops,1877.2530703759612,4.742199506671407,908,27,75,4.443395406760376,2
+184,Gaming Mouse RGB,High precision gaming mouse with RGB lighting,Electronics/Accessories,983.9049126244454,3.9558396828037963,833,53,10,4.4221322182226865,2
+185,Wireless Earbuds,Premium wireless earbuds with noise cancellation,Electronics/Audio,198.32967276747783,4.977530937929698,931,64,14,4.92481337603312,9
+186,iPhone 13 Pro 128GB,Latest Apple iPhone with Pro camera system,Electronics/Phones,142.8667032025107,4.138735024062417,176,46,14,4.784319315842467,3
+187,Samsung Galaxy S21,Android flagship with amazing display,Electronics/Phones,1017.846129943723,4.959202228688472,313,9,81,4.992381198790791,2
+188,"MacBook Pro 14""",Powerful laptop for professionals,Electronics/Laptops,740.7716569385492,4.608908604406134,406,136,58,4.507544690822185,7
+189,Gaming Mouse RGB,High precision gaming mouse with RGB lighting,Electronics/Accessories,1589.855095615213,4.888776587461988,592,3,59,4.676086624906754,5
+190,Wireless Earbuds,Premium wireless earbuds with noise cancellation,Electronics/Audio,1881.3698657374212,4.195201341547702,103,52,2,4.01750805700167,2
+191,iPhone 13 Pro 128GB,Latest Apple iPhone with Pro camera system,Electronics/Phones,1043.051551542571,4.8637678301428275,860,107,18,4.868185063750836,8
+192,Samsung Galaxy S21,Android flagship with amazing display,Electronics/Phones,219.30689597296885,4.04484844592679,961,23,22,4.7491123736482965,7
+193,"MacBook Pro 14""",Powerful laptop for professionals,Electronics/Laptops,1662.0848717601407,4.52803718357082,581,56,36,4.903612559461643,8
+194,Gaming Mouse RGB,High precision gaming mouse with RGB lighting,Electronics/Accessories,1898.879926657318,4.033046272063805,838,54,58,4.880696812917865,6
+195,Wireless Earbuds,Premium wireless earbuds with noise cancellation,Electronics/Audio,970.5251452605653,4.2950675061159505,393,157,40,4.197692085468724,5
+196,iPhone 13 Pro 128GB,Latest Apple iPhone with Pro camera system,Electronics/Phones,472.895440477131,3.757887929574327,247,123,93,4.164628668068765,4
+197,Samsung Galaxy S21,Android flagship with amazing display,Electronics/Phones,753.2407311375687,4.816709673492477,111,129,84,4.897777013748517,6
+198,"MacBook Pro 14""",Powerful laptop for professionals,Electronics/Laptops,1475.9925007052018,4.45646847626518,680,141,32,4.799823950050106,2
+199,Gaming Mouse RGB,High precision gaming mouse with RGB lighting,Electronics/Accessories,1515.4773348907113,4.50317862494716,17,15,19,4.38019484946331,3
+200,Wireless Earbuds,Premium wireless earbuds with noise cancellation,Electronics/Audio,1456.8383329945111,4.549972902257911,590,193,31,4.423465167844017,2
+201,iPhone 13 Pro 128GB,Latest Apple iPhone with Pro camera system,Electronics/Phones,102.2242320981477,3.65792158778022,407,103,86,4.847945947919598,6
+202,Samsung Galaxy S21,Android flagship with amazing display,Electronics/Phones,1378.409409563002,3.972427962846025,264,31,14,4.75997086434299,3
+203,"MacBook Pro 14""",Powerful laptop for professionals,Electronics/Laptops,1063.7994990960958,4.931496317916679,52,2,29,4.565116896634802,2
+204,Gaming Mouse RGB,High precision gaming mouse with RGB lighting,Electronics/Accessories,290.57343148325737,4.482580268819285,798,137,50,4.231741550252802,6
+205,Wireless Earbuds,Premium wireless earbuds with noise cancellation,Electronics/Audio,582.8466969211656,4.628801582476886,322,100,0,4.88332268058085,9
+206,iPhone 13 Pro 128GB,Latest Apple iPhone with Pro camera system,Electronics/Phones,1580.0315901366027,3.5065384411079807,285,147,65,4.8265477251440885,3
+207,Samsung Galaxy S21,Android flagship with amazing display,Electronics/Phones,506.0826091304068,4.425417625926178,927,197,13,4.337543917671736,9
+208,"MacBook Pro 14""",Powerful laptop for professionals,Electronics/Laptops,792.5335099808268,3.793856733526094,636,94,15,4.247721467981683,9
+209,Gaming Mouse RGB,High precision gaming mouse with RGB lighting,Electronics/Accessories,852.6551740410761,4.620678323176604,430,144,40,4.254441965439918,2
+210,Wireless Earbuds,Premium wireless earbuds with noise cancellation,Electronics/Audio,796.5505604300893,4.102615277173465,235,141,13,4.682960853980175,1
+211,iPhone 13 Pro 128GB,Latest Apple iPhone with Pro camera system,Electronics/Phones,1844.6076504542882,4.296586967559264,883,86,95,4.043011450736831,9
+212,Samsung Galaxy S21,Android flagship with amazing display,Electronics/Phones,695.0452139883402,4.198433933957825,653,54,11,4.640997350055724,9
+213,"MacBook Pro 14""",Powerful laptop for professionals,Electronics/Laptops,1454.4720259346905,3.9764930441412596,817,66,17,4.724498413032215,6
+214,Gaming Mouse RGB,High precision gaming mouse with RGB lighting,Electronics/Accessories,1345.3095924514294,4.331879317620295,976,132,21,4.535960993855377,1
+215,Wireless Earbuds,Premium wireless earbuds with noise cancellation,Electronics/Audio,284.66655894927914,4.55497614432324,909,179,77,4.853412071213464,3
+216,iPhone 13 Pro 128GB,Latest Apple iPhone with Pro camera system,Electronics/Phones,1993.03105957579,4.9979845162420755,72,143,56,4.552172650848736,7
+217,Samsung Galaxy S21,Android flagship with amazing display,Electronics/Phones,1362.5838675315406,3.6545291757978178,657,133,5,4.963099656764653,4
+218,"MacBook Pro 14""",Powerful laptop for professionals,Electronics/Laptops,1005.7904838165744,4.95850607129839,811,56,24,4.628331332888787,8
+219,Gaming Mouse RGB,High precision gaming mouse with RGB lighting,Electronics/Accessories,1155.5711394422474,3.8261705074260397,303,17,11,4.983793744198636,9
+220,Wireless Earbuds,Premium wireless earbuds with noise cancellation,Electronics/Audio,1466.1723323554377,4.5251469831347215,89,30,16,4.074094054911896,1
+221,iPhone 13 Pro 128GB,Latest Apple iPhone with Pro camera system,Electronics/Phones,1202.6236454019217,4.691239193975944,556,64,69,4.987321978933814,5
+222,Samsung Galaxy S21,Android flagship with amazing display,Electronics/Phones,701.2706750583818,4.400255421513029,237,199,63,4.605595339423028,2
+223,"MacBook Pro 14""",Powerful laptop for professionals,Electronics/Laptops,496.3775061489982,4.548003896849505,687,188,30,4.811583373294169,7
+224,Gaming Mouse RGB,High precision gaming mouse with RGB lighting,Electronics/Accessories,1152.9109204668966,3.835712852689424,917,125,63,4.719658329136559,4
+225,Wireless Earbuds,Premium wireless earbuds with noise cancellation,Electronics/Audio,1665.306071416799,4.261400525795842,203,54,12,4.039492915937908,7
+226,iPhone 13 Pro 128GB,Latest Apple iPhone with Pro camera system,Electronics/Phones,1506.4738054645904,4.464165579148038,829,127,77,4.643274867538747,3
+227,Samsung Galaxy S21,Android flagship with amazing display,Electronics/Phones,1034.317191845882,4.781040611255914,933,91,73,4.515059495547915,2
+228,"MacBook Pro 14""",Powerful laptop for professionals,Electronics/Laptops,1929.2804916637388,4.729021023583412,475,53,11,4.898362078728965,6
+229,Gaming Mouse RGB,High precision gaming mouse with RGB lighting,Electronics/Accessories,652.8563769943752,3.9703106769610375,731,78,48,4.499996919860097,6
+230,Wireless Earbuds,Premium wireless earbuds with noise cancellation,Electronics/Audio,584.7721669295361,4.031391070737906,523,192,58,4.516593861457224,5
+231,iPhone 13 Pro 128GB,Latest Apple iPhone with Pro camera system,Electronics/Phones,845.591484748542,4.79470672989374,932,4,4,4.239817655964403,7
+232,Samsung Galaxy S21,Android flagship with amazing display,Electronics/Phones,893.2540737980453,3.6053435862751884,909,179,94,4.436224043561201,2
+233,"MacBook Pro 14""",Powerful laptop for professionals,Electronics/Laptops,735.7845087831151,3.7348030266464387,574,159,86,4.777274585949049,6
+234,Gaming Mouse RGB,High precision gaming mouse with RGB lighting,Electronics/Accessories,1442.9702287709038,3.87713081016801,253,93,8,4.158751759991514,4
+235,Wireless Earbuds,Premium wireless earbuds with noise cancellation,Electronics/Audio,1031.2013836323745,4.670068607384433,69,122,65,4.659007230578648,7
+236,iPhone 13 Pro 128GB,Latest Apple iPhone with Pro camera system,Electronics/Phones,805.7786927732002,4.257950647608771,458,59,14,4.719417946413097,4
+237,Samsung Galaxy S21,Android flagship with amazing display,Electronics/Phones,1439.2686924044463,4.850650238326448,816,146,15,4.631539161785877,6
+238,"MacBook Pro 14""",Powerful laptop for professionals,Electronics/Laptops,1847.5586318078451,4.401486390822481,136,187,44,4.991529001855451,9
+239,Gaming Mouse RGB,High precision gaming mouse with RGB lighting,Electronics/Accessories,1438.4005275566458,4.223552759131637,216,183,6,4.2659752489686165,6
+240,Wireless Earbuds,Premium wireless earbuds with noise cancellation,Electronics/Audio,227.64306721345298,4.194027503470997,132,161,86,4.129820876271048,1
+241,iPhone 13 Pro 128GB,Latest Apple iPhone with Pro camera system,Electronics/Phones,638.6822264596285,4.085675916990565,814,175,15,4.599599114875405,4
+242,Samsung Galaxy S21,Android flagship with amazing display,Electronics/Phones,833.6094120332262,3.936750432341406,582,82,99,4.313721278355817,1
+243,"MacBook Pro 14""",Powerful laptop for professionals,Electronics/Laptops,1617.8661821211574,3.9743264725269896,298,193,45,4.399467444929557,3
+244,Gaming Mouse RGB,High precision gaming mouse with RGB lighting,Electronics/Accessories,247.77863262178988,3.835953150133757,573,85,11,4.0324231352498305,3
+245,Wireless Earbuds,Premium wireless earbuds with noise cancellation,Electronics/Audio,1235.0428713281779,4.039429727744274,229,167,99,4.801678756887505,5
+246,iPhone 13 Pro 128GB,Latest Apple iPhone with Pro camera system,Electronics/Phones,666.0634998674844,3.9186117977725288,899,44,35,4.717455643963214,7
+247,Samsung Galaxy S21,Android flagship with amazing display,Electronics/Phones,844.878000362292,4.219239719825696,742,135,15,4.070287343128149,1
+248,"MacBook Pro 14""",Powerful laptop for professionals,Electronics/Laptops,973.4980940427761,4.695976776461542,510,35,1,4.712520291313128,5
+249,Gaming Mouse RGB,High precision gaming mouse with RGB lighting,Electronics/Accessories,764.3597437183139,4.999126128272179,391,53,5,4.576729220891649,6
+250,Wireless Earbuds,Premium wireless earbuds with noise cancellation,Electronics/Audio,633.5661866389751,4.591021109082671,601,96,54,4.040247236515273,1
+251,iPhone 13 Pro 128GB,Latest Apple iPhone with Pro camera system,Electronics/Phones,550.7803269948197,4.615017851105278,140,175,16,4.764017164775603,1
+252,Samsung Galaxy S21,Android flagship with amazing display,Electronics/Phones,1901.8100764055162,3.8722164700733015,366,2,28,4.349321908375629,3
+253,"MacBook Pro 14""",Powerful laptop for professionals,Electronics/Laptops,1036.9146461507355,4.720864852971199,883,113,98,4.0804093966578865,8
+254,Gaming Mouse RGB,High precision gaming mouse with RGB lighting,Electronics/Accessories,1692.9598031199114,4.366581301571315,712,37,99,4.319096306739036,9
+255,Wireless Earbuds,Premium wireless earbuds with noise cancellation,Electronics/Audio,922.0976725881821,4.392886795622527,811,153,90,4.283460927768946,1
+256,iPhone 13 Pro 128GB,Latest Apple iPhone with Pro camera system,Electronics/Phones,1350.128844469253,4.078160387534236,269,123,37,4.877438012942058,3
+257,Samsung Galaxy S21,Android flagship with amazing display,Electronics/Phones,770.4990694694277,4.522526108251328,653,11,37,4.784661698111217,2
+258,"MacBook Pro 14""",Powerful laptop for professionals,Electronics/Laptops,745.2884154387456,4.361376843851737,529,79,29,4.235511751839387,7
+259,Gaming Mouse RGB,High precision gaming mouse with RGB lighting,Electronics/Accessories,1301.5886919716315,4.957347973760753,221,41,78,4.421466624261406,3
+260,Wireless Earbuds,Premium wireless earbuds with noise cancellation,Electronics/Audio,520.7344347920391,4.704312444473912,170,132,64,4.038784543453,2
+261,iPhone 13 Pro 128GB,Latest Apple iPhone with Pro camera system,Electronics/Phones,1397.005398830422,4.46301562416899,621,99,98,4.540961740440092,7
+262,Samsung Galaxy S21,Android flagship with amazing display,Electronics/Phones,1113.0528494077466,3.650241797712041,763,107,41,4.731073335646553,9
+263,"MacBook Pro 14""",Powerful laptop for professionals,Electronics/Laptops,696.3086615036526,4.3394054955243435,319,185,8,4.228663483720042,5
+264,Gaming Mouse RGB,High precision gaming mouse with RGB lighting,Electronics/Accessories,1688.3912972616286,4.640739918119358,858,11,89,4.015127458689577,9
+265,Wireless Earbuds,Premium wireless earbuds with noise cancellation,Electronics/Audio,1149.7769197734465,4.311570038841346,847,83,93,4.556994941340142,6
+266,iPhone 13 Pro 128GB,Latest Apple iPhone with Pro camera system,Electronics/Phones,963.3848445312607,3.9504344316526203,554,108,83,4.516837233105905,9
+267,Samsung Galaxy S21,Android flagship with amazing display,Electronics/Phones,1672.2208731492622,4.642197579975816,745,51,57,4.763499592679567,8
+268,"MacBook Pro 14""",Powerful laptop for professionals,Electronics/Laptops,524.2173213254354,4.433291931216217,99,38,13,4.5110025987135085,9
+269,Gaming Mouse RGB,High precision gaming mouse with RGB lighting,Electronics/Accessories,1020.8730403548487,4.788273405709037,183,97,94,4.736712192534243,4
+270,Wireless Earbuds,Premium wireless earbuds with noise cancellation,Electronics/Audio,1859.2438091453434,4.088179139900208,116,186,26,4.068217297593271,9
+271,iPhone 13 Pro 128GB,Latest Apple iPhone with Pro camera system,Electronics/Phones,1685.368030039579,3.74565921950827,102,57,62,4.90776038395844,6
+272,Samsung Galaxy S21,Android flagship with amazing display,Electronics/Phones,1916.0843472502927,4.179250065211502,431,57,67,4.568335072504637,6
+273,"MacBook Pro 14""",Powerful laptop for professionals,Electronics/Laptops,1270.8300787451801,4.582428528467643,48,60,37,4.552954507092748,1
+274,Gaming Mouse RGB,High precision gaming mouse with RGB lighting,Electronics/Accessories,854.0737698891381,4.358826616090804,630,31,71,4.899475258696283,8
+275,Wireless Earbuds,Premium wireless earbuds with noise cancellation,Electronics/Audio,530.4839453577099,3.6345712518779187,640,33,96,4.390782496815257,7
+276,iPhone 13 Pro 128GB,Latest Apple iPhone with Pro camera system,Electronics/Phones,963.1125827906077,4.4004525296659,720,64,76,4.484725571091525,5
+277,Samsung Galaxy S21,Android flagship with amazing display,Electronics/Phones,1403.1404690386405,3.976619213053882,278,25,89,4.8801184886309485,9
+278,"MacBook Pro 14""",Powerful laptop for professionals,Electronics/Laptops,705.7218054459564,3.5829909324666973,66,120,80,4.687413018986131,3
+279,Gaming Mouse RGB,High precision gaming mouse with RGB lighting,Electronics/Accessories,667.3013319870041,3.8467366308719115,692,171,70,4.1348679460018865,2
+280,Wireless Earbuds,Premium wireless earbuds with noise cancellation,Electronics/Audio,1239.4300394102459,4.360916157316833,901,175,73,4.238185077037292,4
+281,iPhone 13 Pro 128GB,Latest Apple iPhone with Pro camera system,Electronics/Phones,1851.3006088562393,3.8911965662963475,793,166,43,4.17267520206428,4
+282,Samsung Galaxy S21,Android flagship with amazing display,Electronics/Phones,502.8888949974072,3.7030228763003548,553,198,18,4.0581641566958275,7
+283,"MacBook Pro 14""",Powerful laptop for professionals,Electronics/Laptops,198.4126769551612,4.954296842631857,113,104,10,4.59764056893343,1
+284,Gaming Mouse RGB,High precision gaming mouse with RGB lighting,Electronics/Accessories,1354.6492094211928,4.905123704895435,980,147,38,4.120938186794875,9
+285,Wireless Earbuds,Premium wireless earbuds with noise cancellation,Electronics/Audio,1928.3475674973022,3.5351689686783607,764,177,57,4.637142066691043,8
+286,iPhone 13 Pro 128GB,Latest Apple iPhone with Pro camera system,Electronics/Phones,1643.2516414590295,4.449617539119794,59,17,33,4.924946462537133,9
+287,Samsung Galaxy S21,Android flagship with amazing display,Electronics/Phones,639.4133508906316,3.87415102275739,944,156,8,4.840133976993904,5
+288,"MacBook Pro 14""",Powerful laptop for professionals,Electronics/Laptops,1044.2675597661714,3.670145500724509,653,174,0,4.136508600300199,3
+289,Gaming Mouse RGB,High precision gaming mouse with RGB lighting,Electronics/Accessories,209.3831261167738,4.341823486942877,549,5,62,4.683031603132928,9
+290,Wireless Earbuds,Premium wireless earbuds with noise cancellation,Electronics/Audio,205.69454345925476,4.609607047282325,95,147,57,4.030239466099326,4
+291,iPhone 13 Pro 128GB,Latest Apple iPhone with Pro camera system,Electronics/Phones,826.853873207505,4.828193105433855,903,63,17,4.658753869055361,4
+292,Samsung Galaxy S21,Android flagship with amazing display,Electronics/Phones,1061.5194192609938,4.672950642383308,522,46,39,4.842217341294848,4
+293,"MacBook Pro 14""",Powerful laptop for professionals,Electronics/Laptops,645.7911577577783,4.225896849245307,557,93,77,4.8636340461991985,7
+294,Gaming Mouse RGB,High precision gaming mouse with RGB lighting,Electronics/Accessories,1635.1958579188467,4.150500059521487,516,190,10,4.447851646714867,8
+295,Wireless Earbuds,Premium wireless earbuds with noise cancellation,Electronics/Audio,1702.0106586898855,3.6626187355395072,66,21,40,4.677012476209954,6
+296,iPhone 13 Pro 128GB,Latest Apple iPhone with Pro camera system,Electronics/Phones,1823.6175336271476,4.5375520294778475,788,13,28,4.359088144807685,3
+297,Samsung Galaxy S21,Android flagship with amazing display,Electronics/Phones,904.7870555711308,4.7302553304695465,103,0,47,4.033192528234272,2
+298,"MacBook Pro 14""",Powerful laptop for professionals,Electronics/Laptops,1739.6746931910586,4.243579151307845,684,172,31,4.102386397436112,4
+299,Gaming Mouse RGB,High precision gaming mouse with RGB lighting,Electronics/Accessories,169.97478004135417,3.7474290492122546,495,186,42,4.3503378127228975,1
+300,Wireless Earbuds,Premium wireless earbuds with noise cancellation,Electronics/Audio,1763.0580120406735,4.402988058357326,753,44,98,4.901212831163801,6
+301,iPhone 13 Pro 128GB,Latest Apple iPhone with Pro camera system,Electronics/Phones,1399.2289695798345,4.455642632465999,632,113,92,4.855895617315142,6
+302,Samsung Galaxy S21,Android flagship with amazing display,Electronics/Phones,1019.400097232187,4.343690340443539,433,178,62,4.636855528471893,7
+303,"MacBook Pro 14""",Powerful laptop for professionals,Electronics/Laptops,1342.8932375189509,4.626388526699547,655,129,74,4.97459357689737,3
+304,Gaming Mouse RGB,High precision gaming mouse with RGB lighting,Electronics/Accessories,1341.1833541708672,3.657684872884832,181,30,97,4.353561032714642,8
+305,Wireless Earbuds,Premium wireless earbuds with noise cancellation,Electronics/Audio,1816.401667487923,3.554738829439809,447,51,68,4.264910465683584,1
+306,iPhone 13 Pro 128GB,Latest Apple iPhone with Pro camera system,Electronics/Phones,1113.1400924650734,4.240529397333827,437,64,12,4.9865326648857735,3
+307,Samsung Galaxy S21,Android flagship with amazing display,Electronics/Phones,602.0229874690668,4.489733901248577,232,10,1,4.406474552275039,3
+308,"MacBook Pro 14""",Powerful laptop for professionals,Electronics/Laptops,870.2556662436823,4.796694880712949,669,16,6,4.630421144549456,9
+309,Gaming Mouse RGB,High precision gaming mouse with RGB lighting,Electronics/Accessories,1199.6844418675016,3.9329837956896596,276,109,61,4.904255280436919,4
+310,Wireless Earbuds,Premium wireless earbuds with noise cancellation,Electronics/Audio,1924.1220920803707,4.820271905505301,505,33,44,4.302308904211488,5
+311,iPhone 13 Pro 128GB,Latest Apple iPhone with Pro camera system,Electronics/Phones,1105.7651504459864,4.507601918929181,475,141,72,4.609065540383368,6
+312,Samsung Galaxy S21,Android flagship with amazing display,Electronics/Phones,1601.2862613735647,3.8911152826688054,764,95,96,4.043159061031794,3
+313,"MacBook Pro 14""",Powerful laptop for professionals,Electronics/Laptops,197.85432707552476,3.7709091451352785,215,106,27,4.926477842012061,3
+314,Gaming Mouse RGB,High precision gaming mouse with RGB lighting,Electronics/Accessories,488.2836612912669,3.6585839924984214,314,69,12,4.0580079555908135,7
+315,Wireless Earbuds,Premium wireless earbuds with noise cancellation,Electronics/Audio,228.584147365831,3.8165894673151355,878,93,49,4.910682761436097,8
+316,iPhone 13 Pro 128GB,Latest Apple iPhone with Pro camera system,Electronics/Phones,1034.6789061894888,4.638935136211167,906,91,83,4.874925723197391,9
+317,Samsung Galaxy S21,Android flagship with amazing display,Electronics/Phones,197.8185729807299,4.498668712727903,781,107,93,4.131458362450981,8
+318,"MacBook Pro 14""",Powerful laptop for professionals,Electronics/Laptops,1531.5275770994185,4.034245494147915,260,22,81,4.744037344682337,4
+319,Gaming Mouse RGB,High precision gaming mouse with RGB lighting,Electronics/Accessories,1041.1887821279936,3.5723229178613902,128,188,14,4.582146395381343,1
+320,Wireless Earbuds,Premium wireless earbuds with noise cancellation,Electronics/Audio,569.0259697265107,4.242443354891614,226,43,36,4.294891741490956,4
+321,iPhone 13 Pro 128GB,Latest Apple iPhone with Pro camera system,Electronics/Phones,1848.0777051324776,4.0775156694690455,738,149,12,4.9801380356860285,8
+322,Samsung Galaxy S21,Android flagship with amazing display,Electronics/Phones,1394.9893513402371,4.72301023061404,925,91,83,4.662150849610858,6
+323,"MacBook Pro 14""",Powerful laptop for professionals,Electronics/Laptops,1658.982954128786,4.547992278413743,754,46,75,4.101044548062266,7
+324,Gaming Mouse RGB,High precision gaming mouse with RGB lighting,Electronics/Accessories,1450.6976482267426,4.2475524480250115,22,133,37,4.351594485849173,3
+325,Wireless Earbuds,Premium wireless earbuds with noise cancellation,Electronics/Audio,1822.7876424378942,4.574607216943244,99,151,54,4.448058685967763,7
+326,iPhone 13 Pro 128GB,Latest Apple iPhone with Pro camera system,Electronics/Phones,340.7774413534856,3.8938883745218,727,196,32,4.63265505256395,3
+327,Samsung Galaxy S21,Android flagship with amazing display,Electronics/Phones,497.56017630716843,4.576676156464699,112,55,47,4.148878867114961,5
+328,"MacBook Pro 14""",Powerful laptop for professionals,Electronics/Laptops,1958.2707644860136,4.860485492313986,106,46,28,4.517082824453835,3
+329,Gaming Mouse RGB,High precision gaming mouse with RGB lighting,Electronics/Accessories,157.1548603604427,4.583889142776725,76,154,42,4.893640790375314,5
+330,Wireless Earbuds,Premium wireless earbuds with noise cancellation,Electronics/Audio,1840.213682391522,3.8841049187758268,171,168,32,4.45555062195088,1
+331,iPhone 13 Pro 128GB,Latest Apple iPhone with Pro camera system,Electronics/Phones,341.5457295555203,4.25818152625328,849,22,35,4.2898048922674885,3
+332,Samsung Galaxy S21,Android flagship with amazing display,Electronics/Phones,1884.1644797198933,4.265836514142413,129,68,95,4.4189800375338795,2
+333,"MacBook Pro 14""",Powerful laptop for professionals,Electronics/Laptops,624.0328508863194,4.5457652499406365,243,173,34,4.1397663951034325,4
+334,Gaming Mouse RGB,High precision gaming mouse with RGB lighting,Electronics/Accessories,582.5231520082657,3.5325447230007736,874,61,45,4.477299786184097,9
+335,Wireless Earbuds,Premium wireless earbuds with noise cancellation,Electronics/Audio,857.3297899326788,3.7460699820759693,171,145,36,4.575241325929342,5
+336,iPhone 13 Pro 128GB,Latest Apple iPhone with Pro camera system,Electronics/Phones,1140.9427106539565,4.0923427717045735,823,40,67,4.520694407561078,7
+337,Samsung Galaxy S21,Android flagship with amazing display,Electronics/Phones,398.9957047274888,4.793099267865646,29,149,80,4.724186274277521,8
+338,"MacBook Pro 14""",Powerful laptop for professionals,Electronics/Laptops,1992.2787403042178,4.888963375264434,921,55,83,4.951091967076992,4
+339,Gaming Mouse RGB,High precision gaming mouse with RGB lighting,Electronics/Accessories,579.5638302194964,3.537137914161948,383,27,65,4.925241139194776,4
+340,Wireless Earbuds,Premium wireless earbuds with noise cancellation,Electronics/Audio,1270.1438498643931,4.2003203225086985,219,121,83,4.788291596214916,3
+341,iPhone 13 Pro 128GB,Latest Apple iPhone with Pro camera system,Electronics/Phones,1678.8351246002605,4.478303627339275,163,10,59,4.10820573706503,2
+342,Samsung Galaxy S21,Android flagship with amazing display,Electronics/Phones,1325.0667586929967,4.6965642920605255,838,169,33,4.588953683350541,8
+343,"MacBook Pro 14""",Powerful laptop for professionals,Electronics/Laptops,1678.628833771486,3.958087268901624,232,160,31,4.5661156283182205,9
+344,Gaming Mouse RGB,High precision gaming mouse with RGB lighting,Electronics/Accessories,972.9088135318298,3.857340133315621,476,108,65,4.734555976462886,5
+345,Wireless Earbuds,Premium wireless earbuds with noise cancellation,Electronics/Audio,1895.8254892294794,3.8322366910722914,709,116,88,4.6798687267123595,4
+346,iPhone 13 Pro 128GB,Latest Apple iPhone with Pro camera system,Electronics/Phones,646.8371706482392,4.43842350464765,68,1,1,4.6311454860596575,5
+347,Samsung Galaxy S21,Android flagship with amazing display,Electronics/Phones,780.3347814708444,4.057066125604492,174,11,64,4.678279676363665,3
+348,"MacBook Pro 14""",Powerful laptop for professionals,Electronics/Laptops,1936.5498127150986,4.082047962217561,363,187,92,4.924418619964513,8
+349,Gaming Mouse RGB,High precision gaming mouse with RGB lighting,Electronics/Accessories,758.4524007339081,4.400698321655329,571,8,96,4.11474562503839,6
+350,Wireless Earbuds,Premium wireless earbuds with noise cancellation,Electronics/Audio,992.5478658375838,4.903521301622043,889,160,88,4.6550169370852,6
+351,iPhone 13 Pro 128GB,Latest Apple iPhone with Pro camera system,Electronics/Phones,458.4367973707433,4.389042236195108,21,48,10,4.012214693345214,3
+352,Samsung Galaxy S21,Android flagship with amazing display,Electronics/Phones,820.2893562095451,4.156093166646992,409,50,72,4.218968608569792,3
+353,"MacBook Pro 14""",Powerful laptop for professionals,Electronics/Laptops,1992.4798834146648,4.3102350003398,976,110,34,4.14752332592845,3
+354,Gaming Mouse RGB,High precision gaming mouse with RGB lighting,Electronics/Accessories,1505.6041618447755,4.511796926565235,114,109,59,4.365990549714954,3
+355,Wireless Earbuds,Premium wireless earbuds with noise cancellation,Electronics/Audio,1522.607579598934,4.244174352365059,485,178,76,4.701573910269379,5
+356,iPhone 13 Pro 128GB,Latest Apple iPhone with Pro camera system,Electronics/Phones,1954.0749993434574,3.724627073591342,647,175,35,4.202654008347359,8
+357,Samsung Galaxy S21,Android flagship with amazing display,Electronics/Phones,1838.3573466651935,4.087632884327668,343,192,18,4.880093855452452,9
+358,"MacBook Pro 14""",Powerful laptop for professionals,Electronics/Laptops,209.88403052247133,4.891209179636952,938,83,20,4.505321909660503,2
+359,Gaming Mouse RGB,High precision gaming mouse with RGB lighting,Electronics/Accessories,955.1744591859881,4.768908789878727,240,198,94,4.084943906679925,5
+360,Wireless Earbuds,Premium wireless earbuds with noise cancellation,Electronics/Audio,836.0182979964848,3.7252013934657686,587,78,1,4.3958505207842045,2
+361,iPhone 13 Pro 128GB,Latest Apple iPhone with Pro camera system,Electronics/Phones,1252.894861224256,4.116207043673948,778,113,45,4.333456691694903,1
+362,Samsung Galaxy S21,Android flagship with amazing display,Electronics/Phones,370.01190571775277,4.169621428516588,228,179,43,4.244748126712979,8
+363,"MacBook Pro 14""",Powerful laptop for professionals,Electronics/Laptops,1689.4321144110102,3.5150809854137166,42,177,37,4.736674064546272,5
+364,Gaming Mouse RGB,High precision gaming mouse with RGB lighting,Electronics/Accessories,313.494204788021,4.964935795814569,191,199,58,4.145518038628654,9
+365,Wireless Earbuds,Premium wireless earbuds with noise cancellation,Electronics/Audio,1878.510766817692,4.095109665193739,456,70,30,4.218417805349077,3
+366,iPhone 13 Pro 128GB,Latest Apple iPhone with Pro camera system,Electronics/Phones,1333.0677201497876,3.576666370694508,594,107,26,4.311987159695803,7
+367,Samsung Galaxy S21,Android flagship with amazing display,Electronics/Phones,742.6234494671235,3.9862034469992405,791,120,14,4.908058184980497,5
+368,"MacBook Pro 14""",Powerful laptop for professionals,Electronics/Laptops,279.72848354246355,4.344148949597704,506,65,96,4.6452145612388795,7
+369,Gaming Mouse RGB,High precision gaming mouse with RGB lighting,Electronics/Accessories,1676.148752200026,4.495697159925655,279,179,40,4.649967561476132,9
+370,Wireless Earbuds,Premium wireless earbuds with noise cancellation,Electronics/Audio,675.6760737991967,4.777781339434183,983,183,24,4.175768738869548,1
+371,iPhone 13 Pro 128GB,Latest Apple iPhone with Pro camera system,Electronics/Phones,1308.1063024777561,4.866681465358596,711,184,17,4.179934172809948,4
+372,Samsung Galaxy S21,Android flagship with amazing display,Electronics/Phones,1599.323361707457,4.080523619871438,239,43,8,4.806415253639673,8
+373,"MacBook Pro 14""",Powerful laptop for professionals,Electronics/Laptops,1710.5923741715399,4.505250162237969,503,121,81,4.083064276848628,5
+374,Gaming Mouse RGB,High precision gaming mouse with RGB lighting,Electronics/Accessories,1851.7637414599237,3.8077461217555157,943,145,69,4.712571507656204,1
+375,Wireless Earbuds,Premium wireless earbuds with noise cancellation,Electronics/Audio,220.90452390815483,3.9677323750254287,12,30,21,4.206466369228496,2
+376,iPhone 13 Pro 128GB,Latest Apple iPhone with Pro camera system,Electronics/Phones,611.2522739018609,4.283812598244092,555,130,82,4.798807892649552,1
+377,Samsung Galaxy S21,Android flagship with amazing display,Electronics/Phones,1151.7531439449597,4.17574130417855,836,107,45,4.11999584141077,6
+378,"MacBook Pro 14""",Powerful laptop for professionals,Electronics/Laptops,955.0822691389263,4.1316056981474265,892,2,3,4.163638434104502,7
+379,Gaming Mouse RGB,High precision gaming mouse with RGB lighting,Electronics/Accessories,950.2611612421798,4.278874022460566,838,94,40,4.088105217070549,6
+380,Wireless Earbuds,Premium wireless earbuds with noise cancellation,Electronics/Audio,1333.6143092973775,3.515912470433907,117,77,73,4.948973880796421,4
+381,iPhone 13 Pro 128GB,Latest Apple iPhone with Pro camera system,Electronics/Phones,1967.635856214287,4.0172318078027125,978,137,57,4.0809357739604915,8
+382,Samsung Galaxy S21,Android flagship with amazing display,Electronics/Phones,1472.7912642583635,3.6654025531167425,286,150,53,4.598866685626638,1
+383,"MacBook Pro 14""",Powerful laptop for professionals,Electronics/Laptops,1190.5035020863866,3.657551724075584,842,193,59,4.590380456352426,7
+384,Gaming Mouse RGB,High precision gaming mouse with RGB lighting,Electronics/Accessories,1191.9795007620712,4.217742319804236,992,96,67,4.745984273090718,2
+385,Wireless Earbuds,Premium wireless earbuds with noise cancellation,Electronics/Audio,491.1597321632348,4.6659769106946385,639,194,0,4.924525032685879,6
+386,iPhone 13 Pro 128GB,Latest Apple iPhone with Pro camera system,Electronics/Phones,974.959684664119,3.752566325474583,78,25,65,4.917601630933655,1
+387,Samsung Galaxy S21,Android flagship with amazing display,Electronics/Phones,948.4418008958188,4.468510470259459,824,72,93,4.120651702181713,1
+388,"MacBook Pro 14""",Powerful laptop for professionals,Electronics/Laptops,1883.9401004432507,3.6672701438148043,856,125,52,4.44424868159235,9
+389,Gaming Mouse RGB,High precision gaming mouse with RGB lighting,Electronics/Accessories,371.0081728239275,4.096673880628354,422,112,25,4.558036469526839,8
+390,Wireless Earbuds,Premium wireless earbuds with noise cancellation,Electronics/Audio,225.80251026883246,4.496695784791643,961,68,62,4.275088579010735,6
+391,iPhone 13 Pro 128GB,Latest Apple iPhone with Pro camera system,Electronics/Phones,1458.299909192867,4.3040039471614575,837,118,9,4.813290028030278,5
+392,Samsung Galaxy S21,Android flagship with amazing display,Electronics/Phones,1440.8511894958797,4.247817110839417,487,68,64,4.019981744684619,8
+393,"MacBook Pro 14""",Powerful laptop for professionals,Electronics/Laptops,1867.7316075996864,4.0557296636894895,515,147,93,4.913187709834599,8
+394,Gaming Mouse RGB,High precision gaming mouse with RGB lighting,Electronics/Accessories,715.1873627321636,4.326731506283178,448,86,91,4.744487591583777,7
+395,Wireless Earbuds,Premium wireless earbuds with noise cancellation,Electronics/Audio,1927.8675767960592,4.489176359555481,573,39,45,4.524072691681133,7
+396,iPhone 13 Pro 128GB,Latest Apple iPhone with Pro camera system,Electronics/Phones,800.6385955574323,3.894584302993654,431,58,8,4.063111024987638,7
+397,Samsung Galaxy S21,Android flagship with amazing display,Electronics/Phones,575.9436901075737,3.736630088138932,597,147,90,4.4995591030687025,7
+398,"MacBook Pro 14""",Powerful laptop for professionals,Electronics/Laptops,1331.8177270290191,4.042725856277556,561,122,23,4.1278900106100185,5
+399,Gaming Mouse RGB,High precision gaming mouse with RGB lighting,Electronics/Accessories,1420.3395703550439,4.61287014961543,251,34,3,4.611622875418519,3
+400,Wireless Earbuds,Premium wireless earbuds with noise cancellation,Electronics/Audio,1710.1833840479865,3.6887100812959757,28,90,63,4.406783572147588,3
+401,iPhone 13 Pro 128GB,Latest Apple iPhone with Pro camera system,Electronics/Phones,703.3712477189086,4.513019118341525,928,157,82,4.7252937281869505,9
+402,Samsung Galaxy S21,Android flagship with amazing display,Electronics/Phones,1216.5549658884643,4.618822490008414,165,130,19,4.551494604274411,2
+403,"MacBook Pro 14""",Powerful laptop for professionals,Electronics/Laptops,668.4138040448422,3.6154378123272712,217,31,59,4.398616601210935,4
+404,Gaming Mouse RGB,High precision gaming mouse with RGB lighting,Electronics/Accessories,1871.0565047451157,4.320956373705162,617,110,88,4.963385090605914,1
+405,Wireless Earbuds,Premium wireless earbuds with noise cancellation,Electronics/Audio,1432.2961962078998,4.321674397311132,985,3,6,4.911939575484247,8
+406,iPhone 13 Pro 128GB,Latest Apple iPhone with Pro camera system,Electronics/Phones,1985.5657528421107,4.119040475991495,578,185,57,4.114222367876151,3
+407,Samsung Galaxy S21,Android flagship with amazing display,Electronics/Phones,501.42522826189435,4.477084573361896,338,39,11,4.863853476691529,3
+408,"MacBook Pro 14""",Powerful laptop for professionals,Electronics/Laptops,1185.0653711962111,4.354377717613975,816,91,39,4.5273293601786895,8
+409,Gaming Mouse RGB,High precision gaming mouse with RGB lighting,Electronics/Accessories,1895.9953414167915,4.520077487295953,982,78,14,4.731118170699092,7
+410,Wireless Earbuds,Premium wireless earbuds with noise cancellation,Electronics/Audio,1339.8309871146787,3.980654485364511,688,195,68,4.228418583143349,2
+411,iPhone 13 Pro 128GB,Latest Apple iPhone with Pro camera system,Electronics/Phones,624.6915534174798,3.5885571240359364,971,27,58,4.52347896730878,7
+412,Samsung Galaxy S21,Android flagship with amazing display,Electronics/Phones,1906.863914570351,4.292457426496559,205,75,74,4.423631255588963,5
+413,"MacBook Pro 14""",Powerful laptop for professionals,Electronics/Laptops,793.8242932714062,4.691842116634229,464,103,63,4.009374083250229,2
+414,Gaming Mouse RGB,High precision gaming mouse with RGB lighting,Electronics/Accessories,1070.4949539485747,4.003309617170869,751,181,39,4.168290643945259,3
+415,Wireless Earbuds,Premium wireless earbuds with noise cancellation,Electronics/Audio,709.2944840839983,3.579591217827642,694,26,48,4.951680087152073,8
+416,iPhone 13 Pro 128GB,Latest Apple iPhone with Pro camera system,Electronics/Phones,314.4307236545098,4.662081590211219,534,131,24,4.364368908362837,4
+417,Samsung Galaxy S21,Android flagship with amazing display,Electronics/Phones,194.4893495081085,4.951633943659426,28,138,10,4.493800511783439,8
+418,"MacBook Pro 14""",Powerful laptop for professionals,Electronics/Laptops,448.08292945052955,4.411862246969951,876,97,49,4.494910006026414,5
+419,Gaming Mouse RGB,High precision gaming mouse with RGB lighting,Electronics/Accessories,941.2660166145143,3.979394819784182,739,8,99,4.58561141726152,7
+420,Wireless Earbuds,Premium wireless earbuds with noise cancellation,Electronics/Audio,445.3111273751882,4.3727951441664485,494,103,10,4.40750140608785,1
+421,iPhone 13 Pro 128GB,Latest Apple iPhone with Pro camera system,Electronics/Phones,1153.3117039194262,4.6609049204722695,326,167,96,4.469750710551497,1
+422,Samsung Galaxy S21,Android flagship with amazing display,Electronics/Phones,1626.8251943935404,3.53280251206116,509,170,29,4.6713240593214955,9
+423,"MacBook Pro 14""",Powerful laptop for professionals,Electronics/Laptops,939.3492321537703,4.718874288558612,786,190,33,4.390286699447482,7
+424,Gaming Mouse RGB,High precision gaming mouse with RGB lighting,Electronics/Accessories,1980.169491664259,4.115363879012927,423,26,68,4.603994927303277,6
+425,Wireless Earbuds,Premium wireless earbuds with noise cancellation,Electronics/Audio,1803.373027132607,3.6747843523082238,219,177,45,4.7515487152737155,8
+426,iPhone 13 Pro 128GB,Latest Apple iPhone with Pro camera system,Electronics/Phones,1017.2431751416617,4.718822439943391,508,148,87,4.163572099079933,6
+427,Samsung Galaxy S21,Android flagship with amazing display,Electronics/Phones,1321.299375478047,4.961585403052946,168,79,52,4.78224765739805,3
+428,"MacBook Pro 14""",Powerful laptop for professionals,Electronics/Laptops,360.2604958924297,4.470109872623155,617,160,2,4.322624688380304,1
+429,Gaming Mouse RGB,High precision gaming mouse with RGB lighting,Electronics/Accessories,1545.85710605435,4.330438086652215,771,76,96,4.61740113233782,8
+430,Wireless Earbuds,Premium wireless earbuds with noise cancellation,Electronics/Audio,243.23232383910442,4.9463168812918745,860,175,71,4.20300654994139,6
+431,iPhone 13 Pro 128GB,Latest Apple iPhone with Pro camera system,Electronics/Phones,1829.2682965677072,4.653710198114911,372,15,85,4.114477349633705,4
+432,Samsung Galaxy S21,Android flagship with amazing display,Electronics/Phones,945.150260932609,4.202693394835572,164,181,51,4.267636928911873,4
+433,"MacBook Pro 14""",Powerful laptop for professionals,Electronics/Laptops,343.3251822200542,4.448307614282529,304,4,13,4.879258461607797,5
+434,Gaming Mouse RGB,High precision gaming mouse with RGB lighting,Electronics/Accessories,775.1467000627305,3.7837359246923525,425,139,17,4.546155033423621,6
+435,Wireless Earbuds,Premium wireless earbuds with noise cancellation,Electronics/Audio,1330.5038985749977,3.679101995025574,175,154,92,4.414539245341226,4
+436,iPhone 13 Pro 128GB,Latest Apple iPhone with Pro camera system,Electronics/Phones,1727.8448697537867,4.954129594146434,421,116,93,4.636592431714882,2
+437,Samsung Galaxy S21,Android flagship with amazing display,Electronics/Phones,1876.2475922394349,4.182543319521257,490,155,88,4.8877137633249905,8
+438,"MacBook Pro 14""",Powerful laptop for professionals,Electronics/Laptops,1746.1618027704321,3.6380146820204464,70,80,31,4.221135297010271,2
+439,Gaming Mouse RGB,High precision gaming mouse with RGB lighting,Electronics/Accessories,1740.4310297039021,3.984780814184211,384,138,22,4.576217017972533,7
+440,Wireless Earbuds,Premium wireless earbuds with noise cancellation,Electronics/Audio,1817.3114910099143,3.7659673276963597,694,28,35,4.435482239720269,7
+441,iPhone 13 Pro 128GB,Latest Apple iPhone with Pro camera system,Electronics/Phones,961.6852242543532,4.842030362351781,568,110,87,4.115793195976589,2
+442,Samsung Galaxy S21,Android flagship with amazing display,Electronics/Phones,1714.9140694628804,4.275872944152155,286,102,53,4.383683771774859,8
+443,"MacBook Pro 14""",Powerful laptop for professionals,Electronics/Laptops,361.51028467653776,4.960310381337547,788,43,75,4.125720201735162,1
+444,Gaming Mouse RGB,High precision gaming mouse with RGB lighting,Electronics/Accessories,1395.4398703636857,3.608496952815333,557,39,9,4.657201903295504,9
+445,Wireless Earbuds,Premium wireless earbuds with noise cancellation,Electronics/Audio,412.70181958563114,3.6722653877664664,875,68,28,4.303605926958859,7
+446,iPhone 13 Pro 128GB,Latest Apple iPhone with Pro camera system,Electronics/Phones,587.278810313209,4.06532424268742,327,191,37,4.168897499902476,8
+447,Samsung Galaxy S21,Android flagship with amazing display,Electronics/Phones,804.1503433468804,3.798946832389856,341,145,73,4.5788000243337725,3
+448,"MacBook Pro 14""",Powerful laptop for professionals,Electronics/Laptops,426.6593713386584,3.556215733518881,691,152,41,4.514451978764929,8
+449,Gaming Mouse RGB,High precision gaming mouse with RGB lighting,Electronics/Accessories,217.56484235584182,4.898146074792681,985,36,78,4.364107333932042,1
+450,Wireless Earbuds,Premium wireless earbuds with noise cancellation,Electronics/Audio,1673.4021544587697,3.631190271889377,233,68,51,4.059191762791976,2
+451,iPhone 13 Pro 128GB,Latest Apple iPhone with Pro camera system,Electronics/Phones,1342.6005351923752,4.439398503927892,298,116,3,4.332289929921919,2
+452,Samsung Galaxy S21,Android flagship with amazing display,Electronics/Phones,1771.668300697406,4.701970354115722,14,43,10,4.558253039029232,2
+453,"MacBook Pro 14""",Powerful laptop for professionals,Electronics/Laptops,1865.9864848840898,4.593889840275313,898,181,58,4.248069378147661,8
+454,Gaming Mouse RGB,High precision gaming mouse with RGB lighting,Electronics/Accessories,1037.3820582219685,4.329927284067152,67,48,60,4.442870974027098,7
+455,Wireless Earbuds,Premium wireless earbuds with noise cancellation,Electronics/Audio,1234.929824892569,4.054539191035561,843,77,94,4.349948352445476,2
+456,iPhone 13 Pro 128GB,Latest Apple iPhone with Pro camera system,Electronics/Phones,1645.3281915763512,4.029576883548948,214,198,59,4.148608838825062,9
+457,Samsung Galaxy S21,Android flagship with amazing display,Electronics/Phones,1924.4240222076169,4.204005682798296,703,46,61,4.660297180534366,2
+458,"MacBook Pro 14""",Powerful laptop for professionals,Electronics/Laptops,1628.520720517512,4.939410043339115,986,131,2,4.570093768717642,9
+459,Gaming Mouse RGB,High precision gaming mouse with RGB lighting,Electronics/Accessories,595.7753345554456,3.840858491907836,831,89,92,4.694243805720059,1
+460,Wireless Earbuds,Premium wireless earbuds with noise cancellation,Electronics/Audio,1548.865497658631,3.9330900573740246,195,93,15,4.876053702285699,5
+461,iPhone 13 Pro 128GB,Latest Apple iPhone with Pro camera system,Electronics/Phones,1155.1155740516633,3.933345006610968,523,60,23,4.812509472182091,6
+462,Samsung Galaxy S21,Android flagship with amazing display,Electronics/Phones,746.2292556589667,4.9211950990308395,982,148,62,4.4973458420466645,8
+463,"MacBook Pro 14""",Powerful laptop for professionals,Electronics/Laptops,1742.4439324493185,4.1923031694313355,267,71,74,4.419031971804436,2
+464,Gaming Mouse RGB,High precision gaming mouse with RGB lighting,Electronics/Accessories,1013.2622694682277,4.77746184469575,976,181,47,4.2028379144311305,9
+465,Wireless Earbuds,Premium wireless earbuds with noise cancellation,Electronics/Audio,425.8786923161273,3.5909883500805937,111,138,61,4.5427173721350425,9
+466,iPhone 13 Pro 128GB,Latest Apple iPhone with Pro camera system,Electronics/Phones,350.16119244727463,4.836816710573185,792,83,50,4.777460462876307,5
+467,Samsung Galaxy S21,Android flagship with amazing display,Electronics/Phones,1691.7789236921471,4.035101285840036,593,164,77,4.936392594600591,7
+468,"MacBook Pro 14""",Powerful laptop for professionals,Electronics/Laptops,386.03742351739993,4.141427542147465,565,72,47,4.809632423817171,3
+469,Gaming Mouse RGB,High precision gaming mouse with RGB lighting,Electronics/Accessories,762.0363535306167,4.244053651251191,98,154,51,4.775563110887966,1
+470,Wireless Earbuds,Premium wireless earbuds with noise cancellation,Electronics/Audio,1146.0468235467229,4.578829599727965,215,199,90,4.633360017948697,3
+471,iPhone 13 Pro 128GB,Latest Apple iPhone with Pro camera system,Electronics/Phones,1988.8783936815357,3.8154147815378625,635,129,52,4.175903235229752,7
+472,Samsung Galaxy S21,Android flagship with amazing display,Electronics/Phones,455.19116945953624,4.223398356925619,173,77,14,4.285794461470964,8
+473,"MacBook Pro 14""",Powerful laptop for professionals,Electronics/Laptops,1525.7442468297836,3.939420693544407,326,63,16,4.306060710097509,6
+474,Gaming Mouse RGB,High precision gaming mouse with RGB lighting,Electronics/Accessories,1346.0714060942905,4.797131882882777,205,183,11,4.862425259914776,5
+475,Wireless Earbuds,Premium wireless earbuds with noise cancellation,Electronics/Audio,421.4332613562181,4.020797756494275,61,59,24,4.998258612332584,2
+476,iPhone 13 Pro 128GB,Latest Apple iPhone with Pro camera system,Electronics/Phones,478.9626815045267,4.590916498452838,248,40,71,4.892854899149226,5
+477,Samsung Galaxy S21,Android flagship with amazing display,Electronics/Phones,1359.8067678129255,4.81155715349532,629,78,21,4.314293559248831,7
+478,"MacBook Pro 14""",Powerful laptop for professionals,Electronics/Laptops,1262.6693776689667,4.305304474152557,832,36,78,4.234579475662666,6
+479,Gaming Mouse RGB,High precision gaming mouse with RGB lighting,Electronics/Accessories,472.23451069342,3.868426715927788,332,58,70,4.187897990994874,1
+480,Wireless Earbuds,Premium wireless earbuds with noise cancellation,Electronics/Audio,319.30258256466686,3.553018562737673,260,38,77,4.314017050433633,9
+481,iPhone 13 Pro 128GB,Latest Apple iPhone with Pro camera system,Electronics/Phones,1684.7299362498024,4.613754708672266,132,121,67,4.499414127951273,4
+482,Samsung Galaxy S21,Android flagship with amazing display,Electronics/Phones,262.9024897018196,3.7275886407814265,60,138,98,4.035587872645094,8
+483,"MacBook Pro 14""",Powerful laptop for professionals,Electronics/Laptops,1210.6091530204653,3.7591710414067867,77,179,32,4.539751457922691,7
+484,Gaming Mouse RGB,High precision gaming mouse with RGB lighting,Electronics/Accessories,426.31849496347536,3.550384282012877,100,120,40,4.754600853750538,4
+485,Wireless Earbuds,Premium wireless earbuds with noise cancellation,Electronics/Audio,1850.379902015157,4.4022142570099785,875,98,43,4.3959647730436595,3
+486,iPhone 13 Pro 128GB,Latest Apple iPhone with Pro camera system,Electronics/Phones,1964.0436562224843,3.7301677109559312,135,67,81,4.101736981128268,9
+487,Samsung Galaxy S21,Android flagship with amazing display,Electronics/Phones,1526.0453068156517,4.6310950606294625,486,28,43,4.156790343610448,9
+488,"MacBook Pro 14""",Powerful laptop for professionals,Electronics/Laptops,1716.7587312003466,4.492219644144665,557,95,96,4.399760656443053,2
+489,Gaming Mouse RGB,High precision gaming mouse with RGB lighting,Electronics/Accessories,656.138739424215,3.628498974812734,389,189,67,4.459922352883075,3
+490,Wireless Earbuds,Premium wireless earbuds with noise cancellation,Electronics/Audio,1813.1141166363707,4.7729550964320255,463,36,15,4.86568471042873,2
+491,iPhone 13 Pro 128GB,Latest Apple iPhone with Pro camera system,Electronics/Phones,132.2972083418126,3.904207106530229,864,125,80,4.416822564107773,5
+492,Samsung Galaxy S21,Android flagship with amazing display,Electronics/Phones,321.14863234542,4.674549263971159,482,149,41,4.785875793181484,8
+493,"MacBook Pro 14""",Powerful laptop for professionals,Electronics/Laptops,1776.078812761399,4.43088576753083,288,14,61,4.789485816508163,6
+494,Gaming Mouse RGB,High precision gaming mouse with RGB lighting,Electronics/Accessories,1505.12776106176,4.916673957336667,65,55,70,4.8086743457693135,3
+495,Wireless Earbuds,Premium wireless earbuds with noise cancellation,Electronics/Audio,970.4385290712232,4.7953353593403225,540,36,69,4.553530381650263,5
+496,iPhone 13 Pro 128GB,Latest Apple iPhone with Pro camera system,Electronics/Phones,357.05356752361655,4.184930920741396,373,181,8,4.6324323464152055,3
+497,Samsung Galaxy S21,Android flagship with amazing display,Electronics/Phones,614.0086191253557,3.9533235431969587,61,152,16,4.453799419822229,7
+498,"MacBook Pro 14""",Powerful laptop for professionals,Electronics/Laptops,1512.8345598052404,3.905413083839567,974,10,7,4.032088854076504,2
+499,Gaming Mouse RGB,High precision gaming mouse with RGB lighting,Electronics/Accessories,962.8571392189116,4.561667817520303,355,79,8,4.845597023049411,6
+500,Wireless Earbuds,Premium wireless earbuds with noise cancellation,Electronics/Audio,1664.8139926280026,4.580672873114736,707,9,23,4.53322002859818,6
+501,iPhone 13 Pro 128GB,Latest Apple iPhone with Pro camera system,Electronics/Phones,250.97339618312975,4.86378835224761,485,99,4,4.6756494646052404,9
+502,Samsung Galaxy S21,Android flagship with amazing display,Electronics/Phones,438.87119289413283,4.79086076295171,187,98,98,4.035006317152986,5
+503,"MacBook Pro 14""",Powerful laptop for professionals,Electronics/Laptops,649.6803379137847,4.568754840266934,628,140,33,4.775931461462535,5
+504,Gaming Mouse RGB,High precision gaming mouse with RGB lighting,Electronics/Accessories,1979.7526327729383,4.6724293190727,175,24,58,4.976844325172957,1
+505,Wireless Earbuds,Premium wireless earbuds with noise cancellation,Electronics/Audio,1758.7539738266876,3.8174504431396787,214,148,32,4.152993428288246,7
+506,iPhone 13 Pro 128GB,Latest Apple iPhone with Pro camera system,Electronics/Phones,1423.0691159391517,4.608371957036196,927,162,66,4.152971883177373,7
+507,Samsung Galaxy S21,Android flagship with amazing display,Electronics/Phones,1324.4572577478805,4.853483342107278,731,185,68,4.124981655332686,2
+508,"MacBook Pro 14""",Powerful laptop for professionals,Electronics/Laptops,573.8295203797675,3.892487337681471,861,185,17,4.794222942969814,9
+509,Gaming Mouse RGB,High precision gaming mouse with RGB lighting,Electronics/Accessories,1641.8699467242238,4.7173364497488395,599,29,42,4.472053747573744,1
+510,Wireless Earbuds,Premium wireless earbuds with noise cancellation,Electronics/Audio,567.2635672414697,4.549216010963611,677,161,32,4.457443905443859,7
+511,iPhone 13 Pro 128GB,Latest Apple iPhone with Pro camera system,Electronics/Phones,1730.6415787210747,3.547111781332553,38,141,8,4.042405843921733,6
+512,Samsung Galaxy S21,Android flagship with amazing display,Electronics/Phones,719.524888471679,3.5379230369472356,401,82,33,4.841237946332962,1
+513,"MacBook Pro 14""",Powerful laptop for professionals,Electronics/Laptops,1877.033899889511,4.5982517971043375,478,99,50,4.418750538703553,4
+514,Gaming Mouse RGB,High precision gaming mouse with RGB lighting,Electronics/Accessories,746.7283702966113,4.790835658275905,956,97,67,4.715473817584574,4
+515,Wireless Earbuds,Premium wireless earbuds with noise cancellation,Electronics/Audio,1006.4001199208628,4.687956240778735,824,29,50,4.337540714075466,7
+516,iPhone 13 Pro 128GB,Latest Apple iPhone with Pro camera system,Electronics/Phones,1246.5942547814088,4.818282322807727,631,0,42,4.403648592419634,5
+517,Samsung Galaxy S21,Android flagship with amazing display,Electronics/Phones,156.87421086911252,4.266126934394922,179,129,99,4.847202056699789,9
+518,"MacBook Pro 14""",Powerful laptop for professionals,Electronics/Laptops,896.1079201569246,3.6320311222706176,278,191,81,4.1553204027124195,8
+519,Gaming Mouse RGB,High precision gaming mouse with RGB lighting,Electronics/Accessories,362.91617963025266,4.7047127463122305,755,132,16,4.113070239820632,1
+520,Wireless Earbuds,Premium wireless earbuds with noise cancellation,Electronics/Audio,1972.8553059985773,4.046987471457333,221,108,98,4.834426607661127,3
+521,iPhone 13 Pro 128GB,Latest Apple iPhone with Pro camera system,Electronics/Phones,1633.4752777065696,4.579058543252624,72,81,62,4.981606401443249,6
+522,Samsung Galaxy S21,Android flagship with amazing display,Electronics/Phones,1502.8014656246792,4.029040536075424,879,13,63,4.700052909600699,1
+523,"MacBook Pro 14""",Powerful laptop for professionals,Electronics/Laptops,340.4745952586044,4.449405624421479,749,5,10,4.0089766421906265,8
+524,Gaming Mouse RGB,High precision gaming mouse with RGB lighting,Electronics/Accessories,911.9102235919632,3.901489637278177,463,36,13,4.543583675965827,2
+525,Wireless Earbuds,Premium wireless earbuds with noise cancellation,Electronics/Audio,933.294221611104,4.644891282101975,354,189,1,4.729172842892949,7
+526,iPhone 13 Pro 128GB,Latest Apple iPhone with Pro camera system,Electronics/Phones,1453.0133930297127,4.186281699122179,478,130,14,4.235723065010456,4
+527,Samsung Galaxy S21,Android flagship with amazing display,Electronics/Phones,1512.4875601923236,4.012820598497888,632,86,28,4.148943460221441,3
+528,"MacBook Pro 14""",Powerful laptop for professionals,Electronics/Laptops,1560.7678870859713,3.8658602292473865,149,41,32,4.425977921959546,5
+529,Gaming Mouse RGB,High precision gaming mouse with RGB lighting,Electronics/Accessories,934.4190358392304,3.895052679783351,284,20,50,4.8146278136033995,4
+530,Wireless Earbuds,Premium wireless earbuds with noise cancellation,Electronics/Audio,823.3717250642887,4.317118698780935,793,186,85,4.673807428058975,7
+531,iPhone 13 Pro 128GB,Latest Apple iPhone with Pro camera system,Electronics/Phones,1224.1573519954916,4.128878764593733,174,109,50,4.065396365932338,1
+532,Samsung Galaxy S21,Android flagship with amazing display,Electronics/Phones,440.7072928650343,4.481217773600081,840,106,74,4.1911146519064815,7
+533,"MacBook Pro 14""",Powerful laptop for professionals,Electronics/Laptops,1978.294254119502,3.5187484456693823,970,166,57,4.892992650147495,3
+534,Gaming Mouse RGB,High precision gaming mouse with RGB lighting,Electronics/Accessories,1106.2803185501052,3.7247802905128307,962,126,99,4.838589665221019,9
+535,Wireless Earbuds,Premium wireless earbuds with noise cancellation,Electronics/Audio,1100.3330039510702,4.031177894409854,244,41,53,4.5473631200566595,2
+536,iPhone 13 Pro 128GB,Latest Apple iPhone with Pro camera system,Electronics/Phones,1308.9475789876026,4.925100336817101,585,186,20,4.29052516539426,1
+537,Samsung Galaxy S21,Android flagship with amazing display,Electronics/Phones,155.02725974071896,3.8857085403741487,802,21,58,4.836789686040726,6
+538,"MacBook Pro 14""",Powerful laptop for professionals,Electronics/Laptops,1851.4978351369627,3.8535726480682833,414,130,73,4.183022044010475,5
+539,Gaming Mouse RGB,High precision gaming mouse with RGB lighting,Electronics/Accessories,874.7927245115625,4.813647582529454,340,54,64,4.625287382146097,3
+540,Wireless Earbuds,Premium wireless earbuds with noise cancellation,Electronics/Audio,1395.4198104061518,3.5980900272135434,397,36,47,4.431863868404114,1
+541,iPhone 13 Pro 128GB,Latest Apple iPhone with Pro camera system,Electronics/Phones,459.3662260808953,3.730784702645758,373,172,99,4.1709445475114,3
+542,Samsung Galaxy S21,Android flagship with amazing display,Electronics/Phones,1082.7990102303118,3.576764459609268,630,186,66,4.592805116486839,5
+543,"MacBook Pro 14""",Powerful laptop for professionals,Electronics/Laptops,1856.412649346401,4.85937538395263,816,31,37,4.180092485716743,6
+544,Gaming Mouse RGB,High precision gaming mouse with RGB lighting,Electronics/Accessories,1336.745740516166,3.846981917876063,995,54,92,4.546609297582123,6
+545,Wireless Earbuds,Premium wireless earbuds with noise cancellation,Electronics/Audio,1922.1647136842414,4.075088748600018,598,35,37,4.82578374524975,3
+546,iPhone 13 Pro 128GB,Latest Apple iPhone with Pro camera system,Electronics/Phones,666.1756856436249,4.659083583703209,537,74,28,4.101487604155341,7
+547,Samsung Galaxy S21,Android flagship with amazing display,Electronics/Phones,1690.3034779918073,4.225886284248049,87,50,37,4.885785343006523,4
+548,"MacBook Pro 14""",Powerful laptop for professionals,Electronics/Laptops,728.8672822791823,4.479188868960365,994,166,57,4.3613513101595,9
+549,Gaming Mouse RGB,High precision gaming mouse with RGB lighting,Electronics/Accessories,668.3318973552434,3.551165188279517,794,102,60,4.867341432675122,7
+550,Wireless Earbuds,Premium wireless earbuds with noise cancellation,Electronics/Audio,1627.158972083544,3.8154284496632664,866,1,67,4.849885732116693,8
+551,iPhone 13 Pro 128GB,Latest Apple iPhone with Pro camera system,Electronics/Phones,112.96533141647971,4.243888183978905,688,69,3,4.368473586824124,8
+552,Samsung Galaxy S21,Android flagship with amazing display,Electronics/Phones,1134.31777655494,4.08193995167538,208,44,45,4.2532776139143165,9
+553,"MacBook Pro 14""",Powerful laptop for professionals,Electronics/Laptops,372.9563098567028,4.084922603537738,572,104,47,4.011068162689494,3
+554,Gaming Mouse RGB,High precision gaming mouse with RGB lighting,Electronics/Accessories,1963.2417128762875,3.8012804958511937,812,39,74,4.752574325539174,5
+555,Wireless Earbuds,Premium wireless earbuds with noise cancellation,Electronics/Audio,368.6555380088503,3.9285902728955175,657,144,68,4.363761514900379,4
+556,iPhone 13 Pro 128GB,Latest Apple iPhone with Pro camera system,Electronics/Phones,459.88723691737846,4.313447437557008,667,87,48,4.986392844429445,6
+557,Samsung Galaxy S21,Android flagship with amazing display,Electronics/Phones,166.4726238572478,4.46877731699371,766,84,12,4.4314623511314055,6
+558,"MacBook Pro 14""",Powerful laptop for professionals,Electronics/Laptops,294.23629214263576,4.108297745174186,69,32,61,4.675956839309086,1
+559,Gaming Mouse RGB,High precision gaming mouse with RGB lighting,Electronics/Accessories,1801.1171458972967,4.972043721794845,722,178,71,4.165432467713987,9
+560,Wireless Earbuds,Premium wireless earbuds with noise cancellation,Electronics/Audio,152.00611094540182,4.422047584659328,283,198,53,4.862257570802553,4
+561,iPhone 13 Pro 128GB,Latest Apple iPhone with Pro camera system,Electronics/Phones,620.3187309214271,4.776743697947241,670,154,10,4.851964390805051,3
+562,Samsung Galaxy S21,Android flagship with amazing display,Electronics/Phones,792.2377960559902,4.569782924810424,110,84,26,4.382860597410399,5
+563,"MacBook Pro 14""",Powerful laptop for professionals,Electronics/Laptops,1779.6677371851094,3.7929777688471003,660,77,37,4.527469449969434,1
+564,Gaming Mouse RGB,High precision gaming mouse with RGB lighting,Electronics/Accessories,1547.2324462618626,4.202553734584717,167,110,92,4.5818434173805835,8
+565,Wireless Earbuds,Premium wireless earbuds with noise cancellation,Electronics/Audio,1829.5930856851855,4.642222282613602,97,192,87,4.387866251558515,3
+566,iPhone 13 Pro 128GB,Latest Apple iPhone with Pro camera system,Electronics/Phones,144.5097517383074,3.6364124926821164,657,74,68,4.391992096650895,8
+567,Samsung Galaxy S21,Android flagship with amazing display,Electronics/Phones,1320.2972669092335,4.1866574651888,771,123,63,4.537379252002278,1
+568,"MacBook Pro 14""",Powerful laptop for professionals,Electronics/Laptops,576.2085458619679,4.019493505559903,564,172,97,4.152532478908831,6
+569,Gaming Mouse RGB,High precision gaming mouse with RGB lighting,Electronics/Accessories,938.6846003336267,3.9431813975244494,26,39,99,4.107541418649598,8
+570,Wireless Earbuds,Premium wireless earbuds with noise cancellation,Electronics/Audio,481.4275009070634,4.186918247588392,69,75,39,4.766049586641968,9
+571,iPhone 13 Pro 128GB,Latest Apple iPhone with Pro camera system,Electronics/Phones,1815.3635185797066,3.7956814375800447,32,66,17,4.139152111924479,7
+572,Samsung Galaxy S21,Android flagship with amazing display,Electronics/Phones,1657.2347651944826,4.737903941388348,550,67,74,4.1022975452877475,7
+573,"MacBook Pro 14""",Powerful laptop for professionals,Electronics/Laptops,586.511099522837,3.8963073927012983,971,170,45,4.818788127910162,8
+574,Gaming Mouse RGB,High precision gaming mouse with RGB lighting,Electronics/Accessories,1483.794368481306,3.5627484181751137,122,6,51,4.189094724045125,7
+575,Wireless Earbuds,Premium wireless earbuds with noise cancellation,Electronics/Audio,850.3081896327699,3.6630441907297477,868,47,26,4.082480719181345,7
+576,iPhone 13 Pro 128GB,Latest Apple iPhone with Pro camera system,Electronics/Phones,169.85988949279863,4.628684932778027,290,54,70,4.38528930270621,1
+577,Samsung Galaxy S21,Android flagship with amazing display,Electronics/Phones,144.4240053748569,4.709133949670073,429,85,72,4.903338187101472,1
+578,"MacBook Pro 14""",Powerful laptop for professionals,Electronics/Laptops,1010.4172195588548,3.7059222886730314,974,63,85,4.613654949445455,6
+579,Gaming Mouse RGB,High precision gaming mouse with RGB lighting,Electronics/Accessories,603.6870595334826,3.8705689092286044,255,89,47,4.738273709341792,5
+580,Wireless Earbuds,Premium wireless earbuds with noise cancellation,Electronics/Audio,1490.0858673680084,4.2671116474741595,480,97,28,4.664126989412132,8
+581,iPhone 13 Pro 128GB,Latest Apple iPhone with Pro camera system,Electronics/Phones,1758.3419176799528,4.358045925221166,601,194,82,4.2189632832829265,8
+582,Samsung Galaxy S21,Android flagship with amazing display,Electronics/Phones,263.90281040939954,3.8586365836983325,168,145,40,4.582343203513812,2
+583,"MacBook Pro 14""",Powerful laptop for professionals,Electronics/Laptops,971.436108234247,3.7225234720528766,576,60,28,4.703689780653832,8
+584,Gaming Mouse RGB,High precision gaming mouse with RGB lighting,Electronics/Accessories,1143.7783675294536,4.939418862955436,775,165,20,4.282600905464163,3
+585,Wireless Earbuds,Premium wireless earbuds with noise cancellation,Electronics/Audio,1808.7661044185134,4.779237939908988,688,183,35,4.664154954378837,2
+586,iPhone 13 Pro 128GB,Latest Apple iPhone with Pro camera system,Electronics/Phones,1086.9735407229855,4.979807935482027,505,197,13,4.23393305026077,2
+587,Samsung Galaxy S21,Android flagship with amazing display,Electronics/Phones,146.7267071787434,4.133660076312494,804,165,77,4.439240719543902,7
+588,"MacBook Pro 14""",Powerful laptop for professionals,Electronics/Laptops,1837.321208161422,4.430376902596883,378,71,6,4.9627201687491285,8
+589,Gaming Mouse RGB,High precision gaming mouse with RGB lighting,Electronics/Accessories,1635.5247984381563,4.598197733830881,333,122,65,4.061214475628095,4
+590,Wireless Earbuds,Premium wireless earbuds with noise cancellation,Electronics/Audio,1239.1470183198323,4.243235646275572,578,102,59,4.9908358954724275,7
+591,iPhone 13 Pro 128GB,Latest Apple iPhone with Pro camera system,Electronics/Phones,588.1670634979992,4.7237606900695095,804,104,58,4.740371982104871,7
+592,Samsung Galaxy S21,Android flagship with amazing display,Electronics/Phones,646.75729299489,4.080015052845978,164,136,84,4.3579641842968435,3
+593,"MacBook Pro 14""",Powerful laptop for professionals,Electronics/Laptops,389.81530541701346,3.853732871543354,892,191,55,4.528163664367884,4
+594,Gaming Mouse RGB,High precision gaming mouse with RGB lighting,Electronics/Accessories,1605.5576436889394,3.6906188877798285,576,33,12,4.204909707004174,9
+595,Wireless Earbuds,Premium wireless earbuds with noise cancellation,Electronics/Audio,1972.2417232045486,4.050870354686816,727,191,64,4.813276842520176,5
+596,iPhone 13 Pro 128GB,Latest Apple iPhone with Pro camera system,Electronics/Phones,895.2582087773595,3.9375933687170437,604,49,17,4.598322147442348,2
+597,Samsung Galaxy S21,Android flagship with amazing display,Electronics/Phones,1101.3176269299202,3.7557173266837793,726,44,11,4.385622268903869,5
+598,"MacBook Pro 14""",Powerful laptop for professionals,Electronics/Laptops,1017.2346128920669,4.739652167023802,32,59,12,4.191897860509169,8
+599,Gaming Mouse RGB,High precision gaming mouse with RGB lighting,Electronics/Accessories,1831.4050631053356,4.636859411943677,725,77,36,4.30236161356282,2
+600,Wireless Earbuds,Premium wireless earbuds with noise cancellation,Electronics/Audio,906.4739953723429,4.9375435456408745,918,132,77,4.099531141578765,8
+601,iPhone 13 Pro 128GB,Latest Apple iPhone with Pro camera system,Electronics/Phones,1335.36515763552,4.87050244367858,193,0,74,4.830059143121162,9
+602,Samsung Galaxy S21,Android flagship with amazing display,Electronics/Phones,891.5619752574495,3.714492980625478,851,167,32,4.96837485512103,4
+603,"MacBook Pro 14""",Powerful laptop for professionals,Electronics/Laptops,1733.3189387462198,4.419612752793713,657,172,13,4.408251115733263,8
+604,Gaming Mouse RGB,High precision gaming mouse with RGB lighting,Electronics/Accessories,190.5899147745363,3.880799488426698,501,156,27,4.164023630351373,8
+605,Wireless Earbuds,Premium wireless earbuds with noise cancellation,Electronics/Audio,235.38939443942564,4.628573477368741,109,65,31,4.503128627366011,5
+606,iPhone 13 Pro 128GB,Latest Apple iPhone with Pro camera system,Electronics/Phones,1748.4792871579987,3.5419443202372496,183,104,64,4.390861293030154,9
+607,Samsung Galaxy S21,Android flagship with amazing display,Electronics/Phones,1910.124470435301,4.122220066931457,424,136,89,4.075857463788953,6
+608,"MacBook Pro 14""",Powerful laptop for professionals,Electronics/Laptops,662.0708935918663,3.8955693463400953,45,199,58,4.752167576512233,1
+609,Gaming Mouse RGB,High precision gaming mouse with RGB lighting,Electronics/Accessories,941.0739500174794,3.6588698069738803,955,166,25,4.464537094947442,8
+610,Wireless Earbuds,Premium wireless earbuds with noise cancellation,Electronics/Audio,849.5365977448015,4.1117529093744665,752,95,90,4.3127037881947325,6
+611,iPhone 13 Pro 128GB,Latest Apple iPhone with Pro camera system,Electronics/Phones,519.0820107187562,3.993425376715069,685,46,86,4.644657880566619,4
+612,Samsung Galaxy S21,Android flagship with amazing display,Electronics/Phones,686.7165288045546,3.9042604916177535,31,9,11,4.049849408019178,3
+613,"MacBook Pro 14""",Powerful laptop for professionals,Electronics/Laptops,1714.0586793378309,4.231512249501862,493,136,65,4.234228419494501,9
+614,Gaming Mouse RGB,High precision gaming mouse with RGB lighting,Electronics/Accessories,1275.5624344851708,3.51995556781611,265,117,78,4.88268012737045,6
+615,Wireless Earbuds,Premium wireless earbuds with noise cancellation,Electronics/Audio,1373.9091082983728,4.558499370891686,703,88,8,4.189631142364777,5
+616,iPhone 13 Pro 128GB,Latest Apple iPhone with Pro camera system,Electronics/Phones,1312.0179059319496,4.583713611454865,375,147,47,4.33691852256414,8
+617,Samsung Galaxy S21,Android flagship with amazing display,Electronics/Phones,910.9390796179199,4.213734860666336,911,133,6,4.760674547446217,5
+618,"MacBook Pro 14""",Powerful laptop for professionals,Electronics/Laptops,949.1264211995557,4.528409076804717,88,10,95,4.999528831201188,5
+619,Gaming Mouse RGB,High precision gaming mouse with RGB lighting,Electronics/Accessories,1809.4140157455936,4.217550560705018,701,186,45,4.163203241264025,3
+620,Wireless Earbuds,Premium wireless earbuds with noise cancellation,Electronics/Audio,919.7624556587938,4.139784894593784,938,152,97,4.093304445202868,7
+621,iPhone 13 Pro 128GB,Latest Apple iPhone with Pro camera system,Electronics/Phones,137.49710646226004,4.895031454517809,339,18,37,4.049643929516847,1
+622,Samsung Galaxy S21,Android flagship with amazing display,Electronics/Phones,358.1507149174798,4.401827915154826,547,70,61,4.245217569235219,1
+623,"MacBook Pro 14""",Powerful laptop for professionals,Electronics/Laptops,1764.8994659355233,4.105550970527396,177,173,89,4.911166112284047,7
+624,Gaming Mouse RGB,High precision gaming mouse with RGB lighting,Electronics/Accessories,1457.0546401643594,4.082025933340338,120,64,95,4.534833343454043,6
+625,Wireless Earbuds,Premium wireless earbuds with noise cancellation,Electronics/Audio,180.6521643893634,4.890743295783155,623,10,32,4.0838525478376315,7
+626,iPhone 13 Pro 128GB,Latest Apple iPhone with Pro camera system,Electronics/Phones,811.3338471791117,4.305261183610364,895,190,41,4.864533629554759,8
+627,Samsung Galaxy S21,Android flagship with amazing display,Electronics/Phones,238.9771067498253,3.934490343688165,812,115,85,4.114843551332557,8
+628,"MacBook Pro 14""",Powerful laptop for professionals,Electronics/Laptops,412.0936313819045,3.7871166571627137,948,55,61,4.68169132272875,4
+629,Gaming Mouse RGB,High precision gaming mouse with RGB lighting,Electronics/Accessories,1516.4613720357133,4.1869110520321176,26,177,22,4.70759329381249,7
+630,Wireless Earbuds,Premium wireless earbuds with noise cancellation,Electronics/Audio,229.60087798925593,3.8104054957697016,632,120,44,4.930667583276757,4
+631,iPhone 13 Pro 128GB,Latest Apple iPhone with Pro camera system,Electronics/Phones,852.6384098031572,3.642092953731121,793,12,95,4.109261572274473,8
+632,Samsung Galaxy S21,Android flagship with amazing display,Electronics/Phones,1815.125653942233,4.683461232230224,734,183,72,4.095824318424123,7
+633,"MacBook Pro 14""",Powerful laptop for professionals,Electronics/Laptops,463.86907868940864,4.272374095723112,404,47,39,4.207674743164591,2
+634,Gaming Mouse RGB,High precision gaming mouse with RGB lighting,Electronics/Accessories,1649.7022231306669,4.821987846888275,911,122,65,4.808376560558971,8
+635,Wireless Earbuds,Premium wireless earbuds with noise cancellation,Electronics/Audio,1691.1324034178235,3.833966132762002,276,124,67,4.9982186435494524,5
+636,iPhone 13 Pro 128GB,Latest Apple iPhone with Pro camera system,Electronics/Phones,1143.359292284862,3.7988293293793816,774,24,32,4.178691540634393,6
+637,Samsung Galaxy S21,Android flagship with amazing display,Electronics/Phones,641.5865838515613,4.814364589678496,544,110,3,4.069807788762743,6
+638,"MacBook Pro 14""",Powerful laptop for professionals,Electronics/Laptops,453.4989444870525,4.439419364330991,922,16,40,4.761407298039535,9
+639,Gaming Mouse RGB,High precision gaming mouse with RGB lighting,Electronics/Accessories,810.960025526241,4.611405543263286,946,188,75,4.2595336419433325,3
+640,Wireless Earbuds,Premium wireless earbuds with noise cancellation,Electronics/Audio,1600.1970446005432,4.921732116713361,63,67,35,4.887929642195181,7
+641,iPhone 13 Pro 128GB,Latest Apple iPhone with Pro camera system,Electronics/Phones,909.8631551008276,4.470036278283714,233,133,47,4.585816343930155,1
+642,Samsung Galaxy S21,Android flagship with amazing display,Electronics/Phones,1580.2144564538041,3.5292566017972278,862,68,57,4.7783280240144315,6
+643,"MacBook Pro 14""",Powerful laptop for professionals,Electronics/Laptops,829.7717356128072,4.868308040944831,265,166,96,4.969313993578735,8
+644,Gaming Mouse RGB,High precision gaming mouse with RGB lighting,Electronics/Accessories,1175.1575741399736,4.626914725543453,926,23,56,4.192201175830005,1
+645,Wireless Earbuds,Premium wireless earbuds with noise cancellation,Electronics/Audio,367.7241178982033,3.5913783206511862,428,88,21,4.662277622329546,9
+646,iPhone 13 Pro 128GB,Latest Apple iPhone with Pro camera system,Electronics/Phones,1854.874082031985,4.441657846832097,860,93,44,4.435453110132008,9
+647,Samsung Galaxy S21,Android flagship with amazing display,Electronics/Phones,1636.3451817104992,3.627506597191005,89,133,80,4.249660424688227,7
+648,"MacBook Pro 14""",Powerful laptop for professionals,Electronics/Laptops,1191.8086880210428,4.150084190935454,240,11,98,4.898576653616091,5
+649,Gaming Mouse RGB,High precision gaming mouse with RGB lighting,Electronics/Accessories,1461.739021651502,4.797297922301027,987,151,72,4.770656105515266,2
+650,Wireless Earbuds,Premium wireless earbuds with noise cancellation,Electronics/Audio,1376.7250773795615,4.8812089166098325,225,98,99,4.877189898271606,5
+651,iPhone 13 Pro 128GB,Latest Apple iPhone with Pro camera system,Electronics/Phones,790.8424108277223,3.5894376157983783,769,25,39,4.541373219752473,5
+652,Samsung Galaxy S21,Android flagship with amazing display,Electronics/Phones,359.7203936963668,4.043612864155694,614,76,0,4.83220808782438,5
+653,"MacBook Pro 14""",Powerful laptop for professionals,Electronics/Laptops,1604.9783279346163,3.922484774388116,66,180,38,4.868363225007038,4
+654,Gaming Mouse RGB,High precision gaming mouse with RGB lighting,Electronics/Accessories,700.2233459446285,4.91804482590331,583,13,24,4.098093544077366,1
+655,Wireless Earbuds,Premium wireless earbuds with noise cancellation,Electronics/Audio,1572.4526456449698,3.6902979858557767,351,107,32,4.615107431926689,5
+656,iPhone 13 Pro 128GB,Latest Apple iPhone with Pro camera system,Electronics/Phones,109.37212497955231,4.449713861223716,828,131,6,4.189562849215101,3
+657,Samsung Galaxy S21,Android flagship with amazing display,Electronics/Phones,996.4895008025106,3.730238669467092,770,2,61,4.954638594362114,5
+658,"MacBook Pro 14""",Powerful laptop for professionals,Electronics/Laptops,236.33131159590408,4.056689947760674,83,113,48,4.077042600001627,5
+659,Gaming Mouse RGB,High precision gaming mouse with RGB lighting,Electronics/Accessories,273.5783994749922,4.864704817090143,362,131,22,4.046581464397061,7
+660,Wireless Earbuds,Premium wireless earbuds with noise cancellation,Electronics/Audio,659.739490050678,4.437129371162672,333,142,55,4.719783045725569,2
+661,iPhone 13 Pro 128GB,Latest Apple iPhone with Pro camera system,Electronics/Phones,243.75919884720176,3.6508603510956683,787,168,35,4.443831636367085,4
+662,Samsung Galaxy S21,Android flagship with amazing display,Electronics/Phones,345.70335799283356,3.585610655065966,576,198,17,4.193363799443804,4
+663,"MacBook Pro 14""",Powerful laptop for professionals,Electronics/Laptops,1450.0293892827492,4.122985722837754,265,17,4,4.525696366312256,9
+664,Gaming Mouse RGB,High precision gaming mouse with RGB lighting,Electronics/Accessories,1891.0573621006668,3.6846101753491487,483,148,49,4.032814023007953,9
+665,Wireless Earbuds,Premium wireless earbuds with noise cancellation,Electronics/Audio,231.85872971989346,4.941593610663406,578,80,65,4.661456217314902,3
+666,iPhone 13 Pro 128GB,Latest Apple iPhone with Pro camera system,Electronics/Phones,1327.4499351723032,4.888878042988532,934,43,44,4.617961827517905,6
+667,Samsung Galaxy S21,Android flagship with amazing display,Electronics/Phones,1483.7093677301139,4.593911362849866,312,177,24,4.587356031922122,7
+668,"MacBook Pro 14""",Powerful laptop for professionals,Electronics/Laptops,1802.6870615313821,3.6102838251423885,592,124,73,4.326525650740648,7
+669,Gaming Mouse RGB,High precision gaming mouse with RGB lighting,Electronics/Accessories,1480.9562035304873,3.712401282664625,737,94,42,4.578273237476042,8
+670,Wireless Earbuds,Premium wireless earbuds with noise cancellation,Electronics/Audio,594.9158487795639,4.099425656387736,636,69,90,4.192495687699904,5
+671,iPhone 13 Pro 128GB,Latest Apple iPhone with Pro camera system,Electronics/Phones,1393.9222515785802,3.8353431763646046,115,96,50,4.6923665325908015,3
+672,Samsung Galaxy S21,Android flagship with amazing display,Electronics/Phones,1239.8688342223577,3.64631033054065,904,109,12,4.7717169506440715,9
+673,"MacBook Pro 14""",Powerful laptop for professionals,Electronics/Laptops,300.5208543525502,3.927618736034881,403,68,1,4.8791887938106475,6
+674,Gaming Mouse RGB,High precision gaming mouse with RGB lighting,Electronics/Accessories,119.14424197478506,3.917653430101988,876,80,75,4.490419237964487,4
+675,Wireless Earbuds,Premium wireless earbuds with noise cancellation,Electronics/Audio,1865.3971107099808,3.988904866035952,259,153,73,4.432205933728174,5
+676,iPhone 13 Pro 128GB,Latest Apple iPhone with Pro camera system,Electronics/Phones,243.48943132974557,3.797289730268414,962,97,31,4.3707259738339745,4
+677,Samsung Galaxy S21,Android flagship with amazing display,Electronics/Phones,1606.71635624842,3.9201721965926692,794,96,44,4.482033090632912,1
+678,"MacBook Pro 14""",Powerful laptop for professionals,Electronics/Laptops,153.08887427599893,4.9704359840403,974,132,25,4.473297696330694,1
+679,Gaming Mouse RGB,High precision gaming mouse with RGB lighting,Electronics/Accessories,419.3409799383518,3.6870258462926566,496,20,85,4.133319171130251,4
+680,Wireless Earbuds,Premium wireless earbuds with noise cancellation,Electronics/Audio,893.7940712005117,4.826979525561416,676,85,20,4.783338530995684,1
+681,iPhone 13 Pro 128GB,Latest Apple iPhone with Pro camera system,Electronics/Phones,1189.8875983973633,3.5306948072641444,855,182,31,4.346139967751659,8
+682,Samsung Galaxy S21,Android flagship with amazing display,Electronics/Phones,1183.7803982529342,4.515557413191841,48,55,1,4.121285367550001,2
+683,"MacBook Pro 14""",Powerful laptop for professionals,Electronics/Laptops,376.38508120504935,3.7630148076664702,406,95,50,4.710255890047851,4
+684,Gaming Mouse RGB,High precision gaming mouse with RGB lighting,Electronics/Accessories,696.7457954380127,3.6989743962378747,354,152,20,4.913572663107802,6
+685,Wireless Earbuds,Premium wireless earbuds with noise cancellation,Electronics/Audio,465.8240846103255,4.356200030855248,319,61,66,4.125653229097998,1
+686,iPhone 13 Pro 128GB,Latest Apple iPhone with Pro camera system,Electronics/Phones,925.8883392073623,3.699673582288605,747,183,43,4.331491667608613,6
+687,Samsung Galaxy S21,Android flagship with amazing display,Electronics/Phones,1903.226971023208,3.9612451946713505,906,188,99,4.02923550796022,8
+688,"MacBook Pro 14""",Powerful laptop for professionals,Electronics/Laptops,576.2353423258714,4.297917666836901,631,194,45,4.733067960811935,6
+689,Gaming Mouse RGB,High precision gaming mouse with RGB lighting,Electronics/Accessories,461.90806922904585,4.093790436245972,488,6,25,4.910144185292752,7
+690,Wireless Earbuds,Premium wireless earbuds with noise cancellation,Electronics/Audio,817.0953688992879,4.047748733567642,684,64,98,4.249849946657006,5
+691,iPhone 13 Pro 128GB,Latest Apple iPhone with Pro camera system,Electronics/Phones,1198.3178736196153,3.6473337722232246,122,157,77,4.321182238275691,5
+692,Samsung Galaxy S21,Android flagship with amazing display,Electronics/Phones,1747.4017200798712,4.833731389246656,80,154,49,4.905219258967345,4
+693,"MacBook Pro 14""",Powerful laptop for professionals,Electronics/Laptops,1243.4335397958316,4.4633579218914985,592,175,10,4.536466345745659,1
+694,Gaming Mouse RGB,High precision gaming mouse with RGB lighting,Electronics/Accessories,1741.4791450792966,4.9151545246577815,279,175,41,4.332630548755244,5
+695,Wireless Earbuds,Premium wireless earbuds with noise cancellation,Electronics/Audio,210.20745902874486,4.6502198302432145,585,186,23,4.052880695998057,5
+696,iPhone 13 Pro 128GB,Latest Apple iPhone with Pro camera system,Electronics/Phones,811.2262214839844,3.712613093982587,592,176,29,4.970908452635791,9
+697,Samsung Galaxy S21,Android flagship with amazing display,Electronics/Phones,1373.2623362650227,4.428044118307683,929,87,27,4.942527130656751,4
+698,"MacBook Pro 14""",Powerful laptop for professionals,Electronics/Laptops,376.90979180250645,3.9848624812732836,90,142,79,4.876087894253904,2
+699,Gaming Mouse RGB,High precision gaming mouse with RGB lighting,Electronics/Accessories,726.5543841991331,3.742102823853,51,121,18,4.888200340039692,8
+700,Wireless Earbuds,Premium wireless earbuds with noise cancellation,Electronics/Audio,215.08903743343512,3.643918834483585,946,70,80,4.905748260736591,4
+701,iPhone 13 Pro 128GB,Latest Apple iPhone with Pro camera system,Electronics/Phones,536.8219264673737,4.770171249715462,293,33,42,4.663894260937637,4
+702,Samsung Galaxy S21,Android flagship with amazing display,Electronics/Phones,1907.3504546784477,4.491822699790984,733,73,0,4.559347331889265,3
+703,"MacBook Pro 14""",Powerful laptop for professionals,Electronics/Laptops,1812.1637296066324,4.302179237012185,860,50,41,4.586558435783093,6
+704,Gaming Mouse RGB,High precision gaming mouse with RGB lighting,Electronics/Accessories,1017.0148767233732,4.414838575451045,747,176,17,4.4541426712273555,9
+705,Wireless Earbuds,Premium wireless earbuds with noise cancellation,Electronics/Audio,1213.3136540204414,4.8963548706240285,366,191,54,4.104323788201997,2
+706,iPhone 13 Pro 128GB,Latest Apple iPhone with Pro camera system,Electronics/Phones,879.9381924998758,4.156627644575751,806,174,71,4.69445069420238,6
+707,Samsung Galaxy S21,Android flagship with amazing display,Electronics/Phones,103.94106486179486,4.607765651111245,320,175,87,4.554847573358568,7
+708,"MacBook Pro 14""",Powerful laptop for professionals,Electronics/Laptops,1926.5964005997114,4.1778407707385545,454,189,33,4.003111739615872,5
+709,Gaming Mouse RGB,High precision gaming mouse with RGB lighting,Electronics/Accessories,1057.984931616115,4.006997775146203,854,1,88,4.710862445695725,2
+710,Wireless Earbuds,Premium wireless earbuds with noise cancellation,Electronics/Audio,1480.7148574123041,4.538455603334456,809,190,72,4.932135811502836,8
+711,iPhone 13 Pro 128GB,Latest Apple iPhone with Pro camera system,Electronics/Phones,1097.78107181546,4.249682021408205,664,178,75,4.792389827925392,7
+712,Samsung Galaxy S21,Android flagship with amazing display,Electronics/Phones,1568.813771135919,4.331538220003521,364,36,19,4.423397566829945,1
+713,"MacBook Pro 14""",Powerful laptop for professionals,Electronics/Laptops,1302.8804641923027,4.986977277813695,706,171,97,4.906211151504434,9
+714,Gaming Mouse RGB,High precision gaming mouse with RGB lighting,Electronics/Accessories,496.54365518792423,4.720976071428984,174,92,50,4.214568296523724,3
+715,Wireless Earbuds,Premium wireless earbuds with noise cancellation,Electronics/Audio,1843.7732890037544,4.876172981575178,986,133,13,4.177226791680975,9
+716,iPhone 13 Pro 128GB,Latest Apple iPhone with Pro camera system,Electronics/Phones,603.4074741929917,3.7320615011442806,57,43,2,4.692230293303992,2
+717,Samsung Galaxy S21,Android flagship with amazing display,Electronics/Phones,1347.821327736423,4.932279108831714,476,42,62,4.57477554239649,3
+718,"MacBook Pro 14""",Powerful laptop for professionals,Electronics/Laptops,1574.0895934555701,3.562082089816492,470,69,27,4.735124170823803,5
+719,Gaming Mouse RGB,High precision gaming mouse with RGB lighting,Electronics/Accessories,1843.3214565585934,4.793310074879004,209,133,81,4.297409122009004,1
+720,Wireless Earbuds,Premium wireless earbuds with noise cancellation,Electronics/Audio,1176.2646749699056,3.8137990073544596,417,105,37,4.239639597382918,6
+721,iPhone 13 Pro 128GB,Latest Apple iPhone with Pro camera system,Electronics/Phones,474.39698120823675,4.587947519399302,773,132,13,4.5513233966072,4
+722,Samsung Galaxy S21,Android flagship with amazing display,Electronics/Phones,461.45536147702467,4.641983330548949,139,164,46,4.873627754293166,6
+723,"MacBook Pro 14""",Powerful laptop for professionals,Electronics/Laptops,672.0063422503785,3.657084281212776,821,14,19,4.953452599756108,7
+724,Gaming Mouse RGB,High precision gaming mouse with RGB lighting,Electronics/Accessories,1929.3203417473917,4.395349335091945,569,108,98,4.925660882635164,2
+725,Wireless Earbuds,Premium wireless earbuds with noise cancellation,Electronics/Audio,1826.5221191607893,4.4849135156725755,812,175,64,4.022623192131451,2
+726,iPhone 13 Pro 128GB,Latest Apple iPhone with Pro camera system,Electronics/Phones,1081.6662842307537,3.871951718224808,876,13,14,4.0447345632589125,8
+727,Samsung Galaxy S21,Android flagship with amazing display,Electronics/Phones,1304.9191552993282,4.858671354377758,609,13,16,4.922994160093017,3
+728,"MacBook Pro 14""",Powerful laptop for professionals,Electronics/Laptops,717.0189948819062,4.174166846582153,146,118,93,4.765943786968515,1
+729,Gaming Mouse RGB,High precision gaming mouse with RGB lighting,Electronics/Accessories,280.56317317294406,3.922896847937099,518,78,75,4.021885853097929,8
+730,Wireless Earbuds,Premium wireless earbuds with noise cancellation,Electronics/Audio,1177.885747289542,4.457286907348673,234,20,83,4.17026557154772,2
+731,iPhone 13 Pro 128GB,Latest Apple iPhone with Pro camera system,Electronics/Phones,164.59819437025797,3.9564208667000167,769,20,43,4.836833588554706,4
+732,Samsung Galaxy S21,Android flagship with amazing display,Electronics/Phones,646.0862162615828,3.833975846446581,86,92,43,4.00713445706866,5
+733,"MacBook Pro 14""",Powerful laptop for professionals,Electronics/Laptops,754.6867168085007,4.144921665473782,705,188,15,4.29072368288948,8
+734,Gaming Mouse RGB,High precision gaming mouse with RGB lighting,Electronics/Accessories,274.0411412149081,4.526060307580557,480,122,9,4.0144082799038525,7
+735,Wireless Earbuds,Premium wireless earbuds with noise cancellation,Electronics/Audio,1608.6993646358567,3.5320256107388337,802,181,11,4.902060993865038,1
+736,iPhone 13 Pro 128GB,Latest Apple iPhone with Pro camera system,Electronics/Phones,1121.4479907517477,4.647083137628462,772,64,7,4.450221356518019,8
+737,Samsung Galaxy S21,Android flagship with amazing display,Electronics/Phones,1052.864916579482,3.5956098527580447,465,69,6,4.916424793320391,7
+738,"MacBook Pro 14""",Powerful laptop for professionals,Electronics/Laptops,805.9159457092495,4.107069262050355,601,178,15,4.838004650197199,2
+739,Gaming Mouse RGB,High precision gaming mouse with RGB lighting,Electronics/Accessories,1199.0382589867302,4.63679692684462,392,26,2,4.321101940128758,5
+740,Wireless Earbuds,Premium wireless earbuds with noise cancellation,Electronics/Audio,1760.403126518476,4.153419228114483,906,127,33,4.522443165355647,3
+741,iPhone 13 Pro 128GB,Latest Apple iPhone with Pro camera system,Electronics/Phones,1205.972896492428,4.395629296040288,272,123,21,4.098256248228527,5
+742,Samsung Galaxy S21,Android flagship with amazing display,Electronics/Phones,376.2314926967847,4.350056666743022,618,65,19,4.359559044438357,7
+743,"MacBook Pro 14""",Powerful laptop for professionals,Electronics/Laptops,1200.4711344048083,4.256876033051683,260,127,25,4.957101771049509,8
+744,Gaming Mouse RGB,High precision gaming mouse with RGB lighting,Electronics/Accessories,247.45533015145597,4.912459855228418,64,153,51,4.720449128781584,7
+745,Wireless Earbuds,Premium wireless earbuds with noise cancellation,Electronics/Audio,1134.3100741026915,3.9625056236402614,787,71,79,4.679361902818376,6
+746,iPhone 13 Pro 128GB,Latest Apple iPhone with Pro camera system,Electronics/Phones,1132.2731846043655,3.5893584442416904,277,120,62,4.804509634632807,6
+747,Samsung Galaxy S21,Android flagship with amazing display,Electronics/Phones,877.3284673645745,4.200804763874027,925,165,9,4.952926570112354,8
+748,"MacBook Pro 14""",Powerful laptop for professionals,Electronics/Laptops,1886.7697038803808,3.9860906978734096,609,109,10,4.979912555127092,6
+749,Gaming Mouse RGB,High precision gaming mouse with RGB lighting,Electronics/Accessories,1440.744400119224,4.050147758193981,581,7,24,4.208098913050589,6
+750,Wireless Earbuds,Premium wireless earbuds with noise cancellation,Electronics/Audio,1749.1958094448232,4.94131150316557,481,23,33,4.646392435046578,9
+751,iPhone 13 Pro 128GB,Latest Apple iPhone with Pro camera system,Electronics/Phones,695.2470463087781,4.816139579993317,118,177,69,4.394757840961866,4
+752,Samsung Galaxy S21,Android flagship with amazing display,Electronics/Phones,1719.894941050717,4.658360918213016,607,166,90,4.077829834389556,7
+753,"MacBook Pro 14""",Powerful laptop for professionals,Electronics/Laptops,1510.5794721330415,4.8635252973340375,441,66,52,4.425549397669473,4
+754,Gaming Mouse RGB,High precision gaming mouse with RGB lighting,Electronics/Accessories,1401.6214798375065,4.4606607308531165,710,65,13,4.150155890118117,3
+755,Wireless Earbuds,Premium wireless earbuds with noise cancellation,Electronics/Audio,1829.2454502326013,4.920421931355516,765,21,52,4.424036500723842,5
+756,iPhone 13 Pro 128GB,Latest Apple iPhone with Pro camera system,Electronics/Phones,1550.3819858737302,3.8178862599904506,143,96,77,4.332302016726667,6
+757,Samsung Galaxy S21,Android flagship with amazing display,Electronics/Phones,435.7785312857777,3.566671501042277,912,93,58,4.862379914749345,3
+758,"MacBook Pro 14""",Powerful laptop for professionals,Electronics/Laptops,1492.1210133650038,4.3228382025822665,911,46,29,4.1078159111933905,7
+759,Gaming Mouse RGB,High precision gaming mouse with RGB lighting,Electronics/Accessories,315.4706920067471,3.8226987638575074,149,71,0,4.4622144846940675,6
+760,Wireless Earbuds,Premium wireless earbuds with noise cancellation,Electronics/Audio,195.32478130270715,3.9945303995921364,400,190,6,4.349975799332411,2
+761,iPhone 13 Pro 128GB,Latest Apple iPhone with Pro camera system,Electronics/Phones,1481.4395731890547,3.7003175491668094,172,130,91,4.170899862782322,4
+762,Samsung Galaxy S21,Android flagship with amazing display,Electronics/Phones,1893.296203559777,4.765160262518398,919,176,50,4.601149109144693,1
+763,"MacBook Pro 14""",Powerful laptop for professionals,Electronics/Laptops,1878.1509842545884,4.468182275997924,561,101,42,4.314929764618396,4
+764,Gaming Mouse RGB,High precision gaming mouse with RGB lighting,Electronics/Accessories,1426.9344228837356,4.829341274912947,230,34,18,4.371655165931443,9
+765,Wireless Earbuds,Premium wireless earbuds with noise cancellation,Electronics/Audio,147.8035490197174,4.780607413776181,537,196,88,4.869764404849342,6
+766,iPhone 13 Pro 128GB,Latest Apple iPhone with Pro camera system,Electronics/Phones,1039.338649575171,4.562442085903328,254,68,34,4.049153974753526,6
+767,Samsung Galaxy S21,Android flagship with amazing display,Electronics/Phones,751.8420165391083,4.68704162093675,152,187,70,4.864320383481925,3
+768,"MacBook Pro 14""",Powerful laptop for professionals,Electronics/Laptops,937.1627242505463,4.53698644085553,554,185,74,4.165772433893594,4
+769,Gaming Mouse RGB,High precision gaming mouse with RGB lighting,Electronics/Accessories,754.5306820824859,4.522079485069135,367,102,77,4.2506170670333265,7
+770,Wireless Earbuds,Premium wireless earbuds with noise cancellation,Electronics/Audio,674.6959352129828,4.424725329198833,922,73,27,4.515962530054265,4
+771,iPhone 13 Pro 128GB,Latest Apple iPhone with Pro camera system,Electronics/Phones,591.8482219070121,4.539471345515855,187,53,43,4.897148109792353,1
+772,Samsung Galaxy S21,Android flagship with amazing display,Electronics/Phones,1788.4912186955942,4.1483474590885585,742,161,26,4.219663383117976,4
+773,"MacBook Pro 14""",Powerful laptop for professionals,Electronics/Laptops,634.0829287166229,4.311657085752108,602,93,32,4.841309415263481,5
+774,Gaming Mouse RGB,High precision gaming mouse with RGB lighting,Electronics/Accessories,865.2180026990369,4.285040558842306,317,98,76,4.7481107806532625,6
+775,Wireless Earbuds,Premium wireless earbuds with noise cancellation,Electronics/Audio,867.9559270557685,3.827323351147349,83,190,39,4.110262143452618,6
+776,iPhone 13 Pro 128GB,Latest Apple iPhone with Pro camera system,Electronics/Phones,1512.6246398239705,3.5567296659400736,374,93,31,4.152534458053337,6
+777,Samsung Galaxy S21,Android flagship with amazing display,Electronics/Phones,1669.4642768450835,3.6462877730036864,10,55,81,4.87263737559751,3
+778,"MacBook Pro 14""",Powerful laptop for professionals,Electronics/Laptops,147.08690776052995,4.636582606724657,432,141,14,4.255805350181138,5
+779,Gaming Mouse RGB,High precision gaming mouse with RGB lighting,Electronics/Accessories,1715.3023937510422,4.1826932958586704,350,178,34,4.377460892316101,4
+780,Wireless Earbuds,Premium wireless earbuds with noise cancellation,Electronics/Audio,1749.1920957910982,4.015274610751815,418,196,0,4.535054094240244,6
+781,iPhone 13 Pro 128GB,Latest Apple iPhone with Pro camera system,Electronics/Phones,191.8132581741035,4.700221029548184,309,46,40,4.314566170633668,4
+782,Samsung Galaxy S21,Android flagship with amazing display,Electronics/Phones,495.4859263710739,4.07953679234591,735,192,92,4.750165882515586,8
+783,"MacBook Pro 14""",Powerful laptop for professionals,Electronics/Laptops,1293.6154201386514,3.97482536595013,396,131,46,4.328012053961052,9
+784,Gaming Mouse RGB,High precision gaming mouse with RGB lighting,Electronics/Accessories,900.5634407375559,3.7708828213685726,851,166,70,4.471920041415469,5
+785,Wireless Earbuds,Premium wireless earbuds with noise cancellation,Electronics/Audio,1889.722509069461,3.7269995210681053,918,22,22,4.793630321194739,2
+786,iPhone 13 Pro 128GB,Latest Apple iPhone with Pro camera system,Electronics/Phones,652.5318870266041,4.284102209036034,315,51,17,4.931121071613925,1
+787,Samsung Galaxy S21,Android flagship with amazing display,Electronics/Phones,1254.2112678080277,3.636346757726342,749,116,44,4.175566298897941,9
+788,"MacBook Pro 14""",Powerful laptop for professionals,Electronics/Laptops,948.6131523271127,4.354680281318973,896,8,16,4.603080983866011,7
+789,Gaming Mouse RGB,High precision gaming mouse with RGB lighting,Electronics/Accessories,277.0447111940888,4.23412587620288,711,1,62,4.868485045365667,4
+790,Wireless Earbuds,Premium wireless earbuds with noise cancellation,Electronics/Audio,1180.324563813475,4.35605216621586,554,44,70,4.627811446741271,3
+791,iPhone 13 Pro 128GB,Latest Apple iPhone with Pro camera system,Electronics/Phones,930.9438934230384,3.7645953817007576,694,120,32,4.910644584311628,7
+792,Samsung Galaxy S21,Android flagship with amazing display,Electronics/Phones,1838.2783427367906,3.9529040760228016,53,35,74,4.646490354891096,3
+793,"MacBook Pro 14""",Powerful laptop for professionals,Electronics/Laptops,229.01756390222408,4.667407485089535,490,51,66,4.015290923577517,5
+794,Gaming Mouse RGB,High precision gaming mouse with RGB lighting,Electronics/Accessories,1373.9468491745793,4.617603436716031,988,100,60,4.693457918729815,2
+795,Wireless Earbuds,Premium wireless earbuds with noise cancellation,Electronics/Audio,1081.4735521825648,4.123077795787135,439,130,85,4.648797014447382,8
+796,iPhone 13 Pro 128GB,Latest Apple iPhone with Pro camera system,Electronics/Phones,1998.9070803864684,4.399420084240928,778,44,65,4.696497220237546,4
+797,Samsung Galaxy S21,Android flagship with amazing display,Electronics/Phones,1928.7044007171692,4.008376354188812,896,193,13,4.161293886703004,8
+798,"MacBook Pro 14""",Powerful laptop for professionals,Electronics/Laptops,670.3758225652754,4.6614223657485105,370,149,32,4.932063124940427,9
+799,Gaming Mouse RGB,High precision gaming mouse with RGB lighting,Electronics/Accessories,116.53530072019498,4.506625980605058,473,165,24,4.904448336495711,8
+800,Wireless Earbuds,Premium wireless earbuds with noise cancellation,Electronics/Audio,505.8089908597391,3.709937638397952,725,122,35,4.00051619410339,6
+801,iPhone 13 Pro 128GB,Latest Apple iPhone with Pro camera system,Electronics/Phones,658.7775593038615,4.952885337110615,167,102,10,4.605470276264624,5
+802,Samsung Galaxy S21,Android flagship with amazing display,Electronics/Phones,942.550866747349,4.626192590492076,586,58,58,4.098863990428262,9
+803,"MacBook Pro 14""",Powerful laptop for professionals,Electronics/Laptops,625.3798832933473,3.7326423048678894,388,52,97,4.719733777856389,2
+804,Gaming Mouse RGB,High precision gaming mouse with RGB lighting,Electronics/Accessories,1775.5105111209787,4.7410307599141355,839,144,30,4.177484886018875,5
+805,Wireless Earbuds,Premium wireless earbuds with noise cancellation,Electronics/Audio,464.52831162340505,3.509245707661419,647,7,3,4.16093983609841,8
+806,iPhone 13 Pro 128GB,Latest Apple iPhone with Pro camera system,Electronics/Phones,1583.761832463795,4.349138443228801,411,147,11,4.01399475329409,7
+807,Samsung Galaxy S21,Android flagship with amazing display,Electronics/Phones,917.3063059077097,3.909682609096661,599,35,20,4.03045485044548,1
+808,"MacBook Pro 14""",Powerful laptop for professionals,Electronics/Laptops,1048.6672947886027,3.8475888001607643,532,24,98,4.262307049659968,7
+809,Gaming Mouse RGB,High precision gaming mouse with RGB lighting,Electronics/Accessories,1673.2387689065279,4.770793600883023,910,180,20,4.912139829724478,5
+810,Wireless Earbuds,Premium wireless earbuds with noise cancellation,Electronics/Audio,782.2010232708243,3.670443218798686,94,16,4,4.882803078626646,8
+811,iPhone 13 Pro 128GB,Latest Apple iPhone with Pro camera system,Electronics/Phones,666.2055016211243,3.7196327793107207,155,183,39,4.3671623905886126,1
+812,Samsung Galaxy S21,Android flagship with amazing display,Electronics/Phones,135.005558934967,4.180208343143889,179,135,41,4.859772613340791,4
+813,"MacBook Pro 14""",Powerful laptop for professionals,Electronics/Laptops,1239.0280720902856,3.7370373503044414,110,149,65,4.357175611470416,2
+814,Gaming Mouse RGB,High precision gaming mouse with RGB lighting,Electronics/Accessories,758.8274063379544,3.515741035541118,541,192,28,4.178436438777522,9
+815,Wireless Earbuds,Premium wireless earbuds with noise cancellation,Electronics/Audio,1809.0856699003648,4.2616833929353035,300,114,86,4.297662656479184,6
+816,iPhone 13 Pro 128GB,Latest Apple iPhone with Pro camera system,Electronics/Phones,723.1100516574843,4.2147951154347405,813,18,37,4.1848808265499535,8
+817,Samsung Galaxy S21,Android flagship with amazing display,Electronics/Phones,776.7606885176153,3.830022317268718,422,64,25,4.025014392041872,9
+818,"MacBook Pro 14""",Powerful laptop for professionals,Electronics/Laptops,667.2690939724556,4.293680507653746,400,59,0,4.592516499109381,1
+819,Gaming Mouse RGB,High precision gaming mouse with RGB lighting,Electronics/Accessories,1246.27338217211,3.9080446864051432,897,79,97,4.935435225116646,4
+820,Wireless Earbuds,Premium wireless earbuds with noise cancellation,Electronics/Audio,1817.2790758564897,3.7311645047809123,824,121,39,4.839988929508259,9
+821,iPhone 13 Pro 128GB,Latest Apple iPhone with Pro camera system,Electronics/Phones,1572.8035141694534,3.7151128202933563,296,27,83,4.368785071878209,3
+822,Samsung Galaxy S21,Android flagship with amazing display,Electronics/Phones,1126.7745625246598,4.579306627264242,355,36,78,4.214848063630314,2
+823,"MacBook Pro 14""",Powerful laptop for professionals,Electronics/Laptops,1982.047162534714,3.6311313859191836,567,195,99,4.304654302784486,1
+824,Gaming Mouse RGB,High precision gaming mouse with RGB lighting,Electronics/Accessories,1256.722479798886,4.239152990047218,361,119,29,4.4873598063111935,3
+825,Wireless Earbuds,Premium wireless earbuds with noise cancellation,Electronics/Audio,1865.9378616029896,3.6111843645700596,966,26,60,4.96291737040576,3
+826,iPhone 13 Pro 128GB,Latest Apple iPhone with Pro camera system,Electronics/Phones,505.03356637307667,3.761646908253055,599,194,81,4.074104051838969,8
+827,Samsung Galaxy S21,Android flagship with amazing display,Electronics/Phones,1448.810836986831,4.84994134357221,486,55,91,4.334271755954094,8
+828,"MacBook Pro 14""",Powerful laptop for professionals,Electronics/Laptops,676.2507218099747,4.906633304872745,914,166,51,4.9206970917600925,4
+829,Gaming Mouse RGB,High precision gaming mouse with RGB lighting,Electronics/Accessories,1093.4801839049992,3.5138807165425945,996,14,52,4.688989442121902,9
+830,Wireless Earbuds,Premium wireless earbuds with noise cancellation,Electronics/Audio,1224.9949543984958,4.769000523503271,135,20,23,4.114897542813729,9
+831,iPhone 13 Pro 128GB,Latest Apple iPhone with Pro camera system,Electronics/Phones,1277.2693326099923,4.7394266519903,627,42,2,4.931799637097758,3
+832,Samsung Galaxy S21,Android flagship with amazing display,Electronics/Phones,379.44950836237985,3.7431318068510655,414,199,55,4.177673039207018,1
+833,"MacBook Pro 14""",Powerful laptop for professionals,Electronics/Laptops,1482.1369365471655,4.496851263520426,832,148,99,4.015961946117306,4
+834,Gaming Mouse RGB,High precision gaming mouse with RGB lighting,Electronics/Accessories,539.2123974908254,4.763023997931196,244,86,60,4.177028767997079,9
+835,Wireless Earbuds,Premium wireless earbuds with noise cancellation,Electronics/Audio,1239.0913603282936,3.789739645630091,584,5,74,4.551400669215714,6
+836,iPhone 13 Pro 128GB,Latest Apple iPhone with Pro camera system,Electronics/Phones,203.76262281300907,4.658276009968668,450,87,22,4.594859430390773,9
+837,Samsung Galaxy S21,Android flagship with amazing display,Electronics/Phones,1311.6812198687471,4.173821294457509,215,15,87,4.328796152461719,1
+838,"MacBook Pro 14""",Powerful laptop for professionals,Electronics/Laptops,1798.9342521105577,4.048222987372651,463,163,15,4.847455134771361,9
+839,Gaming Mouse RGB,High precision gaming mouse with RGB lighting,Electronics/Accessories,438.58848092700924,4.517836606403383,655,112,62,4.781410617970346,5
+840,Wireless Earbuds,Premium wireless earbuds with noise cancellation,Electronics/Audio,1033.5669373894618,4.251473643403216,974,164,74,4.591647615350442,8
+841,iPhone 13 Pro 128GB,Latest Apple iPhone with Pro camera system,Electronics/Phones,1774.6466576798632,3.654701770124219,842,129,13,4.698430744753969,8
+842,Samsung Galaxy S21,Android flagship with amazing display,Electronics/Phones,1783.6271182675398,3.751244270353397,424,170,47,4.909281255651343,9
+843,"MacBook Pro 14""",Powerful laptop for professionals,Electronics/Laptops,254.61991124561942,3.6665577669227765,866,24,36,4.965062733658361,5
+844,Gaming Mouse RGB,High precision gaming mouse with RGB lighting,Electronics/Accessories,1891.326126244588,4.421425220901888,394,179,90,4.306917379366421,5
+845,Wireless Earbuds,Premium wireless earbuds with noise cancellation,Electronics/Audio,1022.9672981481906,3.9550658415013182,663,129,77,4.678830258581076,5
+846,iPhone 13 Pro 128GB,Latest Apple iPhone with Pro camera system,Electronics/Phones,908.7886908452692,3.7201073225244117,479,45,47,4.782362681392466,9
+847,Samsung Galaxy S21,Android flagship with amazing display,Electronics/Phones,1787.0010582488335,3.983114337448206,19,103,29,4.727051661321409,3
+848,"MacBook Pro 14""",Powerful laptop for professionals,Electronics/Laptops,1984.7092502514733,3.5376391631802258,845,103,0,4.439067708720879,5
+849,Gaming Mouse RGB,High precision gaming mouse with RGB lighting,Electronics/Accessories,1249.7022414366313,4.438414187595304,975,79,44,4.461585806252336,8
+850,Wireless Earbuds,Premium wireless earbuds with noise cancellation,Electronics/Audio,1508.931986768448,3.934498345098177,828,191,59,4.165068662215376,5
+851,iPhone 13 Pro 128GB,Latest Apple iPhone with Pro camera system,Electronics/Phones,1084.6395232426107,4.535410057374044,803,32,24,4.287905134715157,5
+852,Samsung Galaxy S21,Android flagship with amazing display,Electronics/Phones,1860.7767580467148,3.8164684706951935,281,159,54,4.2196270937518685,2
+853,"MacBook Pro 14""",Powerful laptop for professionals,Electronics/Laptops,929.1924200526561,4.848966616567067,614,73,94,4.5132451521750685,9
+854,Gaming Mouse RGB,High precision gaming mouse with RGB lighting,Electronics/Accessories,1588.8042845585487,4.246419719598906,590,36,23,4.202205919311454,5
+855,Wireless Earbuds,Premium wireless earbuds with noise cancellation,Electronics/Audio,382.29917398941177,3.7183470927258986,490,21,92,4.553478595492299,2
+856,iPhone 13 Pro 128GB,Latest Apple iPhone with Pro camera system,Electronics/Phones,686.0853466384125,3.8301424874951,574,114,95,4.742643247762912,1
+857,Samsung Galaxy S21,Android flagship with amazing display,Electronics/Phones,113.99974094188102,4.211365931891656,868,66,61,4.341926425841235,4
+858,"MacBook Pro 14""",Powerful laptop for professionals,Electronics/Laptops,1157.731183617368,4.037011451570659,345,8,20,4.997307712170711,5
+859,Gaming Mouse RGB,High precision gaming mouse with RGB lighting,Electronics/Accessories,188.48320922186264,4.767650020799249,96,12,26,4.473962635827206,7
+860,Wireless Earbuds,Premium wireless earbuds with noise cancellation,Electronics/Audio,1274.0429065419596,3.614533306698688,180,78,92,4.812053158565922,9
+861,iPhone 13 Pro 128GB,Latest Apple iPhone with Pro camera system,Electronics/Phones,406.2544308032705,4.657672530402385,341,175,42,4.955999679671017,5
+862,Samsung Galaxy S21,Android flagship with amazing display,Electronics/Phones,1554.5687850385789,3.5164814946800913,56,71,62,4.906393390410169,6
+863,"MacBook Pro 14""",Powerful laptop for professionals,Electronics/Laptops,1667.988802082928,3.9218848112667573,564,47,90,4.7563426447571935,3
+864,Gaming Mouse RGB,High precision gaming mouse with RGB lighting,Electronics/Accessories,1421.2294216081875,3.505292350460249,848,184,25,4.8782510396989025,5
+865,Wireless Earbuds,Premium wireless earbuds with noise cancellation,Electronics/Audio,1900.7582008668994,4.175969810723812,774,182,87,4.893777394990485,2
+866,iPhone 13 Pro 128GB,Latest Apple iPhone with Pro camera system,Electronics/Phones,533.6340142547738,4.622216392612266,559,68,15,4.57340457685046,8
+867,Samsung Galaxy S21,Android flagship with amazing display,Electronics/Phones,1526.7604653327617,4.323430667386903,95,22,0,4.368940032839109,6
+868,"MacBook Pro 14""",Powerful laptop for professionals,Electronics/Laptops,377.8055923599035,4.910881503915922,564,52,50,4.984580367368303,6
+869,Gaming Mouse RGB,High precision gaming mouse with RGB lighting,Electronics/Accessories,827.960422119487,4.031846112553313,400,34,3,4.738480636029372,9
+870,Wireless Earbuds,Premium wireless earbuds with noise cancellation,Electronics/Audio,1748.2563587924744,4.612418674756625,443,61,42,4.858023318254712,9
+871,iPhone 13 Pro 128GB,Latest Apple iPhone with Pro camera system,Electronics/Phones,1058.6544634409388,4.0502215742959224,803,98,19,4.309847614096648,2
+872,Samsung Galaxy S21,Android flagship with amazing display,Electronics/Phones,434.18583318985037,4.465804563331505,181,51,46,4.298466995498371,8
+873,"MacBook Pro 14""",Powerful laptop for professionals,Electronics/Laptops,314.2736415730976,4.681165304739907,424,77,9,4.058017575531576,2
+874,Gaming Mouse RGB,High precision gaming mouse with RGB lighting,Electronics/Accessories,228.13006293334473,4.456360817911517,655,129,10,4.440304420527094,9
+875,Wireless Earbuds,Premium wireless earbuds with noise cancellation,Electronics/Audio,149.41548180934197,4.630703403685585,719,65,23,4.588596462919823,5
+876,iPhone 13 Pro 128GB,Latest Apple iPhone with Pro camera system,Electronics/Phones,443.75450820615475,3.832100856138681,837,58,81,4.209013973180142,2
+877,Samsung Galaxy S21,Android flagship with amazing display,Electronics/Phones,411.7878084872896,4.516241600525776,564,182,40,4.370376355159316,8
+878,"MacBook Pro 14""",Powerful laptop for professionals,Electronics/Laptops,140.78921802167412,4.679331138469638,894,127,1,4.318934197980344,1
+879,Gaming Mouse RGB,High precision gaming mouse with RGB lighting,Electronics/Accessories,775.9606714967043,4.425499978963577,110,42,65,4.77099041104996,2
+880,Wireless Earbuds,Premium wireless earbuds with noise cancellation,Electronics/Audio,890.6712266653947,4.510054062022189,15,80,87,4.820093703905933,1
+881,iPhone 13 Pro 128GB,Latest Apple iPhone with Pro camera system,Electronics/Phones,1464.5813662778553,3.9511648864877946,167,101,30,4.284301132801024,2
+882,Samsung Galaxy S21,Android flagship with amazing display,Electronics/Phones,495.81642308404173,3.634836014137894,393,67,10,4.855139996539447,6
+883,"MacBook Pro 14""",Powerful laptop for professionals,Electronics/Laptops,216.26016834722972,3.7108478975604764,780,115,61,4.672274600247294,9
+884,Gaming Mouse RGB,High precision gaming mouse with RGB lighting,Electronics/Accessories,1028.5279753110558,3.620545155839152,748,138,21,4.783461311023438,1
+885,Wireless Earbuds,Premium wireless earbuds with noise cancellation,Electronics/Audio,877.4849568162035,3.81678331158399,976,186,76,4.932976589135798,1
+886,iPhone 13 Pro 128GB,Latest Apple iPhone with Pro camera system,Electronics/Phones,1953.2249553069612,4.962053459486258,56,153,66,4.121515534399689,7
+887,Samsung Galaxy S21,Android flagship with amazing display,Electronics/Phones,923.953932941854,4.647605058283396,933,8,76,4.780616247657496,6
+888,"MacBook Pro 14""",Powerful laptop for professionals,Electronics/Laptops,280.17637983478625,4.758519966770045,995,63,76,4.973306059649843,9
+889,Gaming Mouse RGB,High precision gaming mouse with RGB lighting,Electronics/Accessories,559.9452734051661,4.968263458658413,464,130,67,4.32827947776642,5
+890,Wireless Earbuds,Premium wireless earbuds with noise cancellation,Electronics/Audio,316.8762338644167,4.7555890037528705,888,143,83,4.72126618709377,8
+891,iPhone 13 Pro 128GB,Latest Apple iPhone with Pro camera system,Electronics/Phones,1842.8577906899868,4.156779874884537,511,39,88,4.533239269432583,7
+892,Samsung Galaxy S21,Android flagship with amazing display,Electronics/Phones,567.0466183689277,4.960267445150459,455,51,73,4.278274823651531,2
+893,"MacBook Pro 14""",Powerful laptop for professionals,Electronics/Laptops,1667.7712480867,4.234587466142536,211,199,24,4.641807879926741,6
+894,Gaming Mouse RGB,High precision gaming mouse with RGB lighting,Electronics/Accessories,1566.4850413321863,4.5332862024354155,217,53,31,4.068590417963928,3
+895,Wireless Earbuds,Premium wireless earbuds with noise cancellation,Electronics/Audio,587.5308183450677,4.430673821492182,657,94,11,4.883668823278467,2
+896,iPhone 13 Pro 128GB,Latest Apple iPhone with Pro camera system,Electronics/Phones,1308.2890425632804,4.0417513100972,617,182,67,4.485161358347666,2
+897,Samsung Galaxy S21,Android flagship with amazing display,Electronics/Phones,1316.03507871501,4.790175121015721,678,194,61,4.33480741662129,9
+898,"MacBook Pro 14""",Powerful laptop for professionals,Electronics/Laptops,148.93309186164578,4.761364715585132,829,93,39,4.23755063166965,3
+899,Gaming Mouse RGB,High precision gaming mouse with RGB lighting,Electronics/Accessories,118.2430085331448,4.842701922457093,278,61,25,4.732647761076443,4
+900,Wireless Earbuds,Premium wireless earbuds with noise cancellation,Electronics/Audio,1925.0832489216484,4.594025918456447,777,36,21,4.592855391717379,6
+901,iPhone 13 Pro 128GB,Latest Apple iPhone with Pro camera system,Electronics/Phones,899.2251408435077,3.627509563092025,733,136,42,4.975847638139697,8
+902,Samsung Galaxy S21,Android flagship with amazing display,Electronics/Phones,388.01656786179575,3.7394185432019555,586,21,16,4.722596787218226,5
+903,"MacBook Pro 14""",Powerful laptop for professionals,Electronics/Laptops,1703.4247363681204,4.459129240998399,610,24,15,4.28938751370045,9
+904,Gaming Mouse RGB,High precision gaming mouse with RGB lighting,Electronics/Accessories,1541.987169538393,4.318848066556731,284,138,15,4.553095389834544,8
+905,Wireless Earbuds,Premium wireless earbuds with noise cancellation,Electronics/Audio,1810.3330819681396,4.519870102930907,336,57,99,4.095400552259149,4
+906,iPhone 13 Pro 128GB,Latest Apple iPhone with Pro camera system,Electronics/Phones,1656.4825086667822,4.3164543815782945,197,84,63,4.7245699365697496,6
+907,Samsung Galaxy S21,Android flagship with amazing display,Electronics/Phones,414.8303953678499,3.6624382061194654,876,36,14,4.764921404707231,2
+908,"MacBook Pro 14""",Powerful laptop for professionals,Electronics/Laptops,536.7198215412282,4.758811541065869,381,159,90,4.33246662615402,3
+909,Gaming Mouse RGB,High precision gaming mouse with RGB lighting,Electronics/Accessories,1292.1605861153741,3.9742625938740925,876,22,77,4.502623817590546,3
+910,Wireless Earbuds,Premium wireless earbuds with noise cancellation,Electronics/Audio,1735.8702797131389,4.750325444469604,423,84,19,4.059165284489015,1
+911,iPhone 13 Pro 128GB,Latest Apple iPhone with Pro camera system,Electronics/Phones,171.56124767128978,4.388137159387565,864,65,8,4.078046247445931,9
+912,Samsung Galaxy S21,Android flagship with amazing display,Electronics/Phones,763.3017872318557,3.951174904300693,625,37,66,4.397289696519396,6
+913,"MacBook Pro 14""",Powerful laptop for professionals,Electronics/Laptops,679.8616254560928,3.502965912113692,830,124,87,4.063252801256009,1
+914,Gaming Mouse RGB,High precision gaming mouse with RGB lighting,Electronics/Accessories,239.621561586255,4.800873423573646,555,116,85,4.729924492583764,5
+915,Wireless Earbuds,Premium wireless earbuds with noise cancellation,Electronics/Audio,169.22687234173668,4.977322493514056,847,141,69,4.066349709050863,2
+916,iPhone 13 Pro 128GB,Latest Apple iPhone with Pro camera system,Electronics/Phones,1986.039576054142,3.7445748828142147,461,150,29,4.617564008994972,6
+917,Samsung Galaxy S21,Android flagship with amazing display,Electronics/Phones,999.3505298700211,4.353181387345746,936,87,86,4.849317167520851,3
+918,"MacBook Pro 14""",Powerful laptop for professionals,Electronics/Laptops,1654.7448392028132,4.82835828280621,669,84,54,4.858867314953988,5
+919,Gaming Mouse RGB,High precision gaming mouse with RGB lighting,Electronics/Accessories,274.2935208461562,4.58529594002939,584,166,67,4.18031737347823,5
+920,Wireless Earbuds,Premium wireless earbuds with noise cancellation,Electronics/Audio,1377.8181031447457,4.012990534661271,977,161,16,4.372489022983585,8
+921,iPhone 13 Pro 128GB,Latest Apple iPhone with Pro camera system,Electronics/Phones,204.30421273988063,4.899740124674985,447,193,59,4.371352164942068,2
+922,Samsung Galaxy S21,Android flagship with amazing display,Electronics/Phones,374.680754604675,4.693220896349467,867,128,56,4.065306493035864,1
+923,"MacBook Pro 14""",Powerful laptop for professionals,Electronics/Laptops,1409.0161392541536,4.67537242971955,934,115,40,4.003607477931792,5
+924,Gaming Mouse RGB,High precision gaming mouse with RGB lighting,Electronics/Accessories,460.99590141451694,4.157339943529321,93,120,29,4.020660081422822,6
+925,Wireless Earbuds,Premium wireless earbuds with noise cancellation,Electronics/Audio,686.7164777011113,4.402391566365956,886,86,53,4.134233098862182,2
+926,iPhone 13 Pro 128GB,Latest Apple iPhone with Pro camera system,Electronics/Phones,484.0424118887751,4.542337729323956,394,111,14,4.815798318978729,8
+927,Samsung Galaxy S21,Android flagship with amazing display,Electronics/Phones,673.1464072972752,3.508575880236619,41,12,28,4.874145419622947,1
+928,"MacBook Pro 14""",Powerful laptop for professionals,Electronics/Laptops,231.33237949948855,3.792628745874405,844,101,9,4.941515795404239,6
+929,Gaming Mouse RGB,High precision gaming mouse with RGB lighting,Electronics/Accessories,417.0390799881762,3.762184175178491,878,17,13,4.340634673282945,2
+930,Wireless Earbuds,Premium wireless earbuds with noise cancellation,Electronics/Audio,260.21196536764285,3.654446006253856,260,190,58,4.965794393586453,2
+931,iPhone 13 Pro 128GB,Latest Apple iPhone with Pro camera system,Electronics/Phones,1123.2036442332674,3.6848678666766492,390,44,68,4.701012862937986,6
+932,Samsung Galaxy S21,Android flagship with amazing display,Electronics/Phones,895.6827884735649,3.8619551805129513,464,125,2,4.431758577276743,2
+933,"MacBook Pro 14""",Powerful laptop for professionals,Electronics/Laptops,126.70734083638823,4.667485990602554,940,2,43,4.510006549393821,6
+934,Gaming Mouse RGB,High precision gaming mouse with RGB lighting,Electronics/Accessories,1017.3468698422588,4.9786101180939735,701,40,2,4.5781184983415475,7
+935,Wireless Earbuds,Premium wireless earbuds with noise cancellation,Electronics/Audio,1802.0115411955946,3.7650805010430743,710,85,0,4.220148717342935,6
+936,iPhone 13 Pro 128GB,Latest Apple iPhone with Pro camera system,Electronics/Phones,1301.1229786416611,3.9314557963769845,942,77,71,4.5148605041058385,3
+937,Samsung Galaxy S21,Android flagship with amazing display,Electronics/Phones,918.0485896359986,3.9789203951421075,435,21,82,4.977685164405138,7
+938,"MacBook Pro 14""",Powerful laptop for professionals,Electronics/Laptops,1763.1973835985204,4.0921932534035825,165,62,86,4.184728048617987,1
+939,Gaming Mouse RGB,High precision gaming mouse with RGB lighting,Electronics/Accessories,971.9334878608813,4.901958476736184,989,167,42,4.641460225122654,3
+940,Wireless Earbuds,Premium wireless earbuds with noise cancellation,Electronics/Audio,1301.1989599483738,3.5060556182228337,513,140,37,4.060406008495699,2
+941,iPhone 13 Pro 128GB,Latest Apple iPhone with Pro camera system,Electronics/Phones,742.4234175758469,4.571891318659361,810,100,68,4.106563384831614,8
+942,Samsung Galaxy S21,Android flagship with amazing display,Electronics/Phones,1648.0206911082291,3.7060270843397367,883,5,18,4.458679412954774,2
+943,"MacBook Pro 14""",Powerful laptop for professionals,Electronics/Laptops,461.9884674095136,3.644973820273333,568,58,1,4.254285861631799,1
+944,Gaming Mouse RGB,High precision gaming mouse with RGB lighting,Electronics/Accessories,1453.7056984998676,3.538898717473592,474,118,63,4.502916387641661,8
+945,Wireless Earbuds,Premium wireless earbuds with noise cancellation,Electronics/Audio,335.50353109624103,3.959810788098894,756,163,16,4.915655850928754,1
+946,iPhone 13 Pro 128GB,Latest Apple iPhone with Pro camera system,Electronics/Phones,1040.745825353221,4.305059962889001,634,193,9,4.834945659032925,8
+947,Samsung Galaxy S21,Android flagship with amazing display,Electronics/Phones,702.6795314571401,3.8199619429473413,911,23,49,4.313100050684302,7
+948,"MacBook Pro 14""",Powerful laptop for professionals,Electronics/Laptops,862.8852906356383,3.6791461218656716,239,129,90,4.544196989829388,4
+949,Gaming Mouse RGB,High precision gaming mouse with RGB lighting,Electronics/Accessories,1619.6135419914872,4.333978136183598,328,176,61,4.26042182075066,6
+950,Wireless Earbuds,Premium wireless earbuds with noise cancellation,Electronics/Audio,1211.1968313458071,3.7708627696937254,291,2,30,4.756084536403137,4
+951,iPhone 13 Pro 128GB,Latest Apple iPhone with Pro camera system,Electronics/Phones,624.2583565381412,4.4247974302846735,914,101,21,4.904856953201355,5
+952,Samsung Galaxy S21,Android flagship with amazing display,Electronics/Phones,813.2390096823184,4.997287349476327,352,10,53,4.077069680206222,9
+953,"MacBook Pro 14""",Powerful laptop for professionals,Electronics/Laptops,804.5153299802993,4.639826097050821,586,49,15,4.68023533208289,8
+954,Gaming Mouse RGB,High precision gaming mouse with RGB lighting,Electronics/Accessories,453.09221624367547,4.958855332302134,146,156,19,4.459862784663958,6
+955,Wireless Earbuds,Premium wireless earbuds with noise cancellation,Electronics/Audio,557.6450950524684,4.791907758034201,696,38,61,4.339474566804535,8
+956,iPhone 13 Pro 128GB,Latest Apple iPhone with Pro camera system,Electronics/Phones,1762.395412091365,4.09856454524969,565,57,5,4.524094938984261,9
+957,Samsung Galaxy S21,Android flagship with amazing display,Electronics/Phones,1801.3129594123438,3.903811611486336,757,192,14,4.21990387217417,6
+958,"MacBook Pro 14""",Powerful laptop for professionals,Electronics/Laptops,1665.0695369581144,4.575464358132958,388,136,53,4.057312375196769,5
+959,Gaming Mouse RGB,High precision gaming mouse with RGB lighting,Electronics/Accessories,1314.6640370058483,4.090195427033555,452,35,16,4.954085049475772,2
+960,Wireless Earbuds,Premium wireless earbuds with noise cancellation,Electronics/Audio,1528.2759126221051,3.880340273558781,668,158,58,4.314476218913788,9
+961,iPhone 13 Pro 128GB,Latest Apple iPhone with Pro camera system,Electronics/Phones,137.37257994776604,3.9383450541208225,728,39,81,4.1485806814777835,2
+962,Samsung Galaxy S21,Android flagship with amazing display,Electronics/Phones,1782.5044086874984,3.9578973455046,828,114,27,4.902645640883144,4
+963,"MacBook Pro 14""",Powerful laptop for professionals,Electronics/Laptops,1273.756690434951,4.20301407527243,241,19,63,4.9014103880198885,5
+964,Gaming Mouse RGB,High precision gaming mouse with RGB lighting,Electronics/Accessories,1914.724297536315,3.5170853182429465,773,146,46,4.260470261031582,4
+965,Wireless Earbuds,Premium wireless earbuds with noise cancellation,Electronics/Audio,1747.8444300822273,4.213526566179356,907,175,61,4.586079164383572,6
+966,iPhone 13 Pro 128GB,Latest Apple iPhone with Pro camera system,Electronics/Phones,1026.1041864619183,4.082578901726341,605,50,11,4.751905538482705,8
+967,Samsung Galaxy S21,Android flagship with amazing display,Electronics/Phones,498.5317337392606,4.325831988471142,431,41,74,4.813131881826308,7
+968,"MacBook Pro 14""",Powerful laptop for professionals,Electronics/Laptops,189.38079120805105,3.995086186331252,952,168,21,4.732732044696672,8
+969,Gaming Mouse RGB,High precision gaming mouse with RGB lighting,Electronics/Accessories,1590.295269720303,4.115645050913193,906,178,2,4.4223511451094195,7
+970,Wireless Earbuds,Premium wireless earbuds with noise cancellation,Electronics/Audio,302.14414199233715,4.69968059064962,60,77,79,4.111905447220392,2
+971,iPhone 13 Pro 128GB,Latest Apple iPhone with Pro camera system,Electronics/Phones,544.1255838243492,4.900455402483402,583,151,82,4.232194425405371,9
+972,Samsung Galaxy S21,Android flagship with amazing display,Electronics/Phones,1573.3273403636576,3.5343873432625896,678,85,58,4.981156604618989,8
+973,"MacBook Pro 14""",Powerful laptop for professionals,Electronics/Laptops,1592.9731191517317,4.919741834084729,788,18,34,4.871595062649557,1
+974,Gaming Mouse RGB,High precision gaming mouse with RGB lighting,Electronics/Accessories,930.556607668397,4.610408063050887,929,178,60,4.01555085111764,2
+975,Wireless Earbuds,Premium wireless earbuds with noise cancellation,Electronics/Audio,895.7785671766043,4.683539074754248,355,173,87,4.9087085360965546,9
+976,iPhone 13 Pro 128GB,Latest Apple iPhone with Pro camera system,Electronics/Phones,1889.2785632419807,4.629166319355868,200,109,66,4.26449850341605,4
+977,Samsung Galaxy S21,Android flagship with amazing display,Electronics/Phones,455.6881022167012,4.5562001645302015,276,157,19,4.177461996597957,9
+978,"MacBook Pro 14""",Powerful laptop for professionals,Electronics/Laptops,816.6435667714849,4.485498843497969,533,144,27,4.596808308804842,1
+979,Gaming Mouse RGB,High precision gaming mouse with RGB lighting,Electronics/Accessories,1787.6970178915367,4.346704270607002,331,47,17,4.680863905587628,2
+980,Wireless Earbuds,Premium wireless earbuds with noise cancellation,Electronics/Audio,195.20310784713786,4.0589573311276155,416,141,46,4.877206219916299,7
+981,iPhone 13 Pro 128GB,Latest Apple iPhone with Pro camera system,Electronics/Phones,1150.6526369219587,4.404536964385169,835,155,80,4.19167676328146,4
+982,Samsung Galaxy S21,Android flagship with amazing display,Electronics/Phones,1102.6909572042891,3.853017191843646,78,29,93,4.9932208966350045,8
+983,"MacBook Pro 14""",Powerful laptop for professionals,Electronics/Laptops,1553.6129136866787,3.536287936188399,837,146,38,4.9344683264665505,9
+984,Gaming Mouse RGB,High precision gaming mouse with RGB lighting,Electronics/Accessories,817.3744908591718,4.592655296108035,408,86,74,4.606196934726044,9
+985,Wireless Earbuds,Premium wireless earbuds with noise cancellation,Electronics/Audio,478.1985540232781,4.394099662095202,474,1,92,4.077982927131943,3
+986,iPhone 13 Pro 128GB,Latest Apple iPhone with Pro camera system,Electronics/Phones,1535.7535026736855,3.7226112486845273,261,97,18,4.2971582561557575,7
+987,Samsung Galaxy S21,Android flagship with amazing display,Electronics/Phones,242.08752859517867,4.619230369338405,38,169,19,4.60852897119591,2
+988,"MacBook Pro 14""",Powerful laptop for professionals,Electronics/Laptops,395.09570696142123,4.6325139004744615,472,182,79,4.310836792250304,7
+989,Gaming Mouse RGB,High precision gaming mouse with RGB lighting,Electronics/Accessories,261.52014201103464,4.814298777239237,632,105,41,4.29111229590462,7
+990,Wireless Earbuds,Premium wireless earbuds with noise cancellation,Electronics/Audio,1532.4943416578224,4.914140052476171,424,131,58,4.6648349800847715,1
+991,iPhone 13 Pro 128GB,Latest Apple iPhone with Pro camera system,Electronics/Phones,140.2003042193186,4.090896058673669,996,66,25,4.452829555757982,2
+992,Samsung Galaxy S21,Android flagship with amazing display,Electronics/Phones,965.2342460650733,4.393949472389278,385,47,74,4.257883049765214,3
+993,"MacBook Pro 14""",Powerful laptop for professionals,Electronics/Laptops,932.2128928524058,4.577239024414476,746,3,18,4.050393207021269,7
+994,Gaming Mouse RGB,High precision gaming mouse with RGB lighting,Electronics/Accessories,1031.9266275765585,3.6745682222781766,740,195,24,4.199939569523266,7
+995,Wireless Earbuds,Premium wireless earbuds with noise cancellation,Electronics/Audio,522.9099568324924,3.7509028743793245,251,95,72,4.739204241823685,3
+996,iPhone 13 Pro 128GB,Latest Apple iPhone with Pro camera system,Electronics/Phones,1307.03068629663,3.578975171386003,987,194,11,4.273651765862976,7
+997,Samsung Galaxy S21,Android flagship with amazing display,Electronics/Phones,1725.914629230681,4.989310853782292,738,55,64,4.527351711382996,1
+998,"MacBook Pro 14""",Powerful laptop for professionals,Electronics/Laptops,594.9153048528699,4.309911805527762,278,10,88,4.506798576024258,4
+999,Gaming Mouse RGB,High precision gaming mouse with RGB lighting,Electronics/Accessories,1313.5296925034945,4.635849653428702,676,141,0,4.588909575287849,3
+1000,Wireless Earbuds,Premium wireless earbuds with noise cancellation,Electronics/Audio,1609.6098890852606,4.485759461025779,969,168,21,4.608362083069968,3
