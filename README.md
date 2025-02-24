@@ -59,7 +59,7 @@ npm start
 ```
 
 
-##5.Monitoreo de Logs
+## 5.Monitoreo de Logs
 # Windows
 Get-Content -Path ".\logs\app.log" -Wait
 
@@ -67,11 +67,15 @@ Get-Content -Path ".\logs\app.log" -Wait
 tail -f logs/app.log
 
 
-##Endpints API
-##Get Recommendations
+## Endpoints API
+### Get Recommendations
+
+
+```plaintext
 [GET /products/{product_id}/recommendations](http://localhost:8000/products/1/recommendations?n_recommendations=2)
 or
 http://localhost:8000/products/1/recommendations   
+```
 
 Postman - Headers:
 - Authorization: Bearer {TOKEN}
