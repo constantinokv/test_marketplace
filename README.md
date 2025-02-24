@@ -4,6 +4,7 @@ Sistema de análisis y recomendaciones para productos de marketplace, con capaci
 
 ## Estructura del Proyecto
 
+```plaintext
 marketplace_analysis/
 ├── app/
 │   ├── api/
@@ -17,6 +18,7 @@ marketplace-dashboard/
 │   ├── components/
 │   └── services/
 └── package.json
+```
 
 
 
@@ -78,6 +80,7 @@ Query Params:
 - n_recommendations (optional): Número de recomendaciones a retornar (default: 5)
 
 Response 200:
+```plaintext
 {
     "product_id": 1,
     "title": "iPhone 13 Pro 128GB",
@@ -95,3 +98,4 @@ Response 200:
         ...
     ]
 }
+```
